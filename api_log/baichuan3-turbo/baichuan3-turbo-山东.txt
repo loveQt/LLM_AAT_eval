@@ -1,0 +1,191 @@
+Model: Baichuan3-Turbo
+Question: 1
+{"id":"chatcmpl-M935F0184L6DoEF","object":"chat.completion","created":1722776773,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":223,"completion_tokens":5,"total_tokens":228,"search_count":0}}
+Question: 2
+{"id":"chatcmpl-SAEDD0184L6GoIZ","object":"chat.completion","created":1722776776,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"抱歉，我还没学习如何回答这个问题，您可以向我问一些其它的问题，我会尽力帮您解决的。"},"finish_reason":"content_filter"}]}
+Question: 3
+{"id":"chatcmpl-M11FB0184L6KomV","object":"chat.completion","created":1722776780,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":214,"completion_tokens":5,"total_tokens":219,"search_count":0}}
+Question: 4
+{"id":"chatcmpl-M07940184L6Oobi","object":"chat.completion","created":1722776784,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":233,"completion_tokens":5,"total_tokens":238,"search_count":0}}
+Question: 5
+{"id":"chatcmpl-MAA880184L6Sosi","object":"chat.completion","created":1722776788,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":227,"completion_tokens":5,"total_tokens":232,"search_count":0}}
+Question: 7
+{"id":"chatcmpl-MA0890184L6Woqg","object":"chat.completion","created":1722776792,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":244,"completion_tokens":5,"total_tokens":249,"search_count":0}}
+Question: 8
+{"id":"chatcmpl-MDFB10184L6aorL","object":"chat.completion","created":1722776796,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":253,"completion_tokens":5,"total_tokens":258,"search_count":0}}
+Question: 9
+{"id":"chatcmpl-M4AA50184L6eoCJ","object":"chat.completion","created":1722776800,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":194,"completion_tokens":5,"total_tokens":199,"search_count":0}}
+Question: 10
+{"id":"chatcmpl-MD9B70184L6ioum","object":"chat.completion","created":1722776804,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":197,"completion_tokens":5,"total_tokens":202,"search_count":0}}
+Question: 11
+{"id":"chatcmpl-M05DD0184L6loUV","object":"chat.completion","created":1722776807,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":192,"completion_tokens":5,"total_tokens":197,"search_count":0}}
+Question: 12
+{"id":"chatcmpl-M8FB50184L6po9o","object":"chat.completion","created":1722776811,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":204,"completion_tokens":5,"total_tokens":209,"search_count":0}}
+Question: 13
+{"id":"chatcmpl-M69CB0184L6toLR","object":"chat.completion","created":1722776815,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":5,"total_tokens":198,"search_count":0}}
+Question: 14
+{"id":"chatcmpl-M24670184L6xo4L","object":"chat.completion","created":1722776819,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":181,"completion_tokens":5,"total_tokens":186,"search_count":0}}
+Question: 15
+{"id":"chatcmpl-M21E90184L73oQg","object":"chat.completion","created":1722776823,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":5,"total_tokens":198,"search_count":0}}
+Question: 16
+{"id":"chatcmpl-M9D0E0184L77ox2","object":"chat.completion","created":1722776827,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":181,"completion_tokens":5,"total_tokens":186,"search_count":0}}
+Question: 17
+{"id":"chatcmpl-MA1D50184L7Aott","object":"chat.completion","created":1722776830,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":170,"completion_tokens":5,"total_tokens":175,"search_count":0}}
+Question: 18
+{"id":"chatcmpl-M33530184L7Eox1","object":"chat.completion","created":1722776834,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":161,"completion_tokens":5,"total_tokens":166,"search_count":0}}
+Question: 19
+{"id":"chatcmpl-M1D1B0184L7IoLa","object":"chat.completion","created":1722776838,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":223,"completion_tokens":5,"total_tokens":228,"search_count":0}}
+Question: 20
+{"id":"chatcmpl-MEB100184L7MoKT","object":"chat.completion","created":1722776842,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":189,"completion_tokens":5,"total_tokens":194,"search_count":0}}
+Question: 21
+{"id":"chatcmpl-M88CE0184L7Poko","object":"chat.completion","created":1722776845,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":172,"completion_tokens":5,"total_tokens":177,"search_count":0}}
+Question: 22
+{"id":"chatcmpl-M35EE0184L7UoVb","object":"chat.completion","created":1722776850,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":231,"completion_tokens":5,"total_tokens":236,"search_count":0}}
+Question: 23
+{"id":"chatcmpl-MB2480184L7Xops","object":"chat.completion","created":1722776853,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":213,"completion_tokens":5,"total_tokens":218,"search_count":0}}
+Question: 24
+{"id":"chatcmpl-M8CD50184L7bodM","object":"chat.completion","created":1722776857,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":281,"completion_tokens":5,"total_tokens":286,"search_count":0}}
+Question: 25
+{"id":"chatcmpl-MA89B0184L7eoS0","object":"chat.completion","created":1722776860,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":213,"completion_tokens":5,"total_tokens":218,"search_count":0}}
+Question: 26
+{"id":"chatcmpl-M50D10184L7iorV","object":"chat.completion","created":1722776864,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":199,"completion_tokens":5,"total_tokens":204,"search_count":0}}
+Question: 27
+{"id":"chatcmpl-M2A610184L7moEe","object":"chat.completion","created":1722776868,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":248,"completion_tokens":5,"total_tokens":253,"search_count":0}}
+Question: 28
+{"id":"chatcmpl-M02D30184L7qodw","object":"chat.completion","created":1722776872,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":214,"completion_tokens":5,"total_tokens":219,"search_count":0}}
+Question: 29
+{"id":"chatcmpl-M6AC00184L7uoGM","object":"chat.completion","created":1722776876,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":255,"completion_tokens":5,"total_tokens":260,"search_count":0}}
+Question: 30
+{"id":"chatcmpl-MACDE0184L80o9s","object":"chat.completion","created":1722776880,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":288,"completion_tokens":5,"total_tokens":293,"search_count":0}}
+Question: 31
+{"id":"chatcmpl-MB9140184L84ouM","object":"chat.completion","created":1722776884,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":313,"completion_tokens":5,"total_tokens":318,"search_count":0}}
+Question: 32
+{"id":"chatcmpl-M688B0184L89oLR","object":"chat.completion","created":1722776889,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":256,"completion_tokens":5,"total_tokens":261,"search_count":0}}
+Question: 33
+{"id":"chatcmpl-M7CF40184L8Do9H","object":"chat.completion","created":1722776893,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":286,"completion_tokens":5,"total_tokens":291,"search_count":0}}
+Question: 34
+{"id":"chatcmpl-M64420184L8HoNc","object":"chat.completion","created":1722776897,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":314,"completion_tokens":5,"total_tokens":319,"search_count":0}}
+Question: 35
+{"id":"chatcmpl-MA0F40184L8KoSx","object":"chat.completion","created":1722776900,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":264,"completion_tokens":5,"total_tokens":269,"search_count":0}}
+Question: 36
+{"id":"chatcmpl-M06300184L8OokA","object":"chat.completion","created":1722776904,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":241,"completion_tokens":5,"total_tokens":246,"search_count":0}}
+Question: 37
+{"id":"chatcmpl-M9FD00184L8SomO","object":"chat.completion","created":1722776908,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":335,"completion_tokens":5,"total_tokens":340,"search_count":0}}
+Question: 38
+{"id":"chatcmpl-MAC0E0184L8VoHg","object":"chat.completion","created":1722776911,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":273,"completion_tokens":5,"total_tokens":278,"search_count":0}}
+Question: 39
+{"id":"chatcmpl-M87BA0184L8ZoUM","object":"chat.completion","created":1722776915,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":251,"completion_tokens":5,"total_tokens":256,"search_count":0}}
+Question: 40
+{"id":"chatcmpl-M06060184L8corX","object":"chat.completion","created":1722776918,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":213,"completion_tokens":5,"total_tokens":218,"search_count":0}}
+Question: 41
+{"id":"chatcmpl-MD19D0184L8go9J","object":"chat.completion","created":1722776922,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":259,"completion_tokens":5,"total_tokens":264,"search_count":0}}
+Question: 42
+{"id":"chatcmpl-MD8E30184L8koto","object":"chat.completion","created":1722776926,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":312,"completion_tokens":5,"total_tokens":317,"search_count":0}}
+Question: 43
+{"id":"chatcmpl-M32B80184L8oonX","object":"chat.completion","created":1722776930,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":262,"completion_tokens":5,"total_tokens":267,"search_count":0}}
+Question: 44
+{"id":"chatcmpl-M1A1C0184L8soPo","object":"chat.completion","created":1722776934,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":242,"completion_tokens":5,"total_tokens":247,"search_count":0}}
+Question: 45
+{"id":"chatcmpl-ME2E50184L8voUj","object":"chat.completion","created":1722776937,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":261,"completion_tokens":5,"total_tokens":266,"search_count":0}}
+Question: 46
+{"id":"chatcmpl-M70D00184L91oZC","object":"chat.completion","created":1722776941,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":253,"completion_tokens":5,"total_tokens":258,"search_count":0}}
+Question: 47
+{"id":"chatcmpl-MCAAB0184L95op9","object":"chat.completion","created":1722776945,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":318,"completion_tokens":5,"total_tokens":323,"search_count":0}}
+Question: 48
+{"id":"chatcmpl-MDBF90184L99odh","object":"chat.completion","created":1722776949,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":319,"completion_tokens":5,"total_tokens":324,"search_count":0}}
+Question: 49
+{"id":"chatcmpl-M261C0184L9Cog8","object":"chat.completion","created":1722776952,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":312,"completion_tokens":5,"total_tokens":317,"search_count":0}}
+Question: 50
+{"id":"chatcmpl-MA2100184L9Go6N","object":"chat.completion","created":1722776956,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":237,"completion_tokens":5,"total_tokens":242,"search_count":0}}
+Question: 51
+{"id":"chatcmpl-M69190184L9KoG6","object":"chat.completion","created":1722776960,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":198,"completion_tokens":5,"total_tokens":203,"search_count":0}}
+Question: 52
+{"id":"chatcmpl-M42500184L9Oo3Q","object":"chat.completion","created":1722776964,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":166,"completion_tokens":5,"total_tokens":171,"search_count":0}}
+Question: 53
+{"id":"chatcmpl-MDCCC0184L9So4X","object":"chat.completion","created":1722776968,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":165,"completion_tokens":5,"total_tokens":170,"search_count":0}}
+Question: 54
+{"id":"chatcmpl-MBB450184L9WoUo","object":"chat.completion","created":1722776972,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":215,"completion_tokens":5,"total_tokens":220,"search_count":0}}
+Question: 55
+{"id":"chatcmpl-M80BC0184L9ZoNb","object":"chat.completion","created":1722776975,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":201,"completion_tokens":5,"total_tokens":206,"search_count":0}}
+Question: 56
+{"id":"chatcmpl-M124C0184L9doJj","object":"chat.completion","created":1722776979,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":196,"completion_tokens":5,"total_tokens":201,"search_count":0}}
+Question: 57
+{"id":"chatcmpl-M85B70184L9ho2i","object":"chat.completion","created":1722776983,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":197,"completion_tokens":5,"total_tokens":202,"search_count":0}}
+Question: 58
+{"id":"chatcmpl-M7A9E0184L9oo7o","object":"chat.completion","created":1722776990,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":196,"completion_tokens":5,"total_tokens":201,"search_count":0}}
+Question: 59
+{"id":"chatcmpl-M1F830184L9ro1C","object":"chat.completion","created":1722776993,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":192,"completion_tokens":5,"total_tokens":197,"search_count":0}}
+Question: 60
+{"id":"chatcmpl-M4C2A0184L9voOl","object":"chat.completion","created":1722776997,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":181,"completion_tokens":5,"total_tokens":186,"search_count":0}}
+Question: 62
+{"id":"chatcmpl-M4E0D0184LA0oaN","object":"chat.completion","created":1722777000,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":5,"total_tokens":140,"search_count":0}}
+Question: 71
+{"id":"chatcmpl-M506D0184LA3oQz","object":"chat.completion","created":1722777003,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":167,"completion_tokens":5,"total_tokens":172,"search_count":0}}
+Question: 72
+{"id":"chatcmpl-M92410184LA7oXI","object":"chat.completion","created":1722777007,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":246,"completion_tokens":5,"total_tokens":251,"search_count":0}}
+Question: 73
+{"id":"chatcmpl-M61E10184LABoot","object":"chat.completion","created":1722777011,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":221,"completion_tokens":5,"total_tokens":226,"search_count":0}}
+Question: 74
+{"id":"chatcmpl-M95CE0184LAEoWs","object":"chat.completion","created":1722777014,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":280,"completion_tokens":5,"total_tokens":285,"search_count":0}}
+Question: 75
+{"id":"chatcmpl-M446B0184LAIoo7","object":"chat.completion","created":1722777018,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":259,"completion_tokens":5,"total_tokens":264,"search_count":0}}
+Question: 76
+{"id":"chatcmpl-M5BC90184LAMoWO","object":"chat.completion","created":1722777022,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":284,"completion_tokens":5,"total_tokens":289,"search_count":0}}
+Question: 77
+{"id":"chatcmpl-MBDD20184LAPoaf","object":"chat.completion","created":1722777025,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":210,"completion_tokens":5,"total_tokens":215,"search_count":0}}
+Question: 78
+{"id":"chatcmpl-MF5B80184LATo1x","object":"chat.completion","created":1722777029,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":255,"completion_tokens":5,"total_tokens":260,"search_count":0}}
+Question: 79
+{"id":"chatcmpl-M12830184LAXoHs","object":"chat.completion","created":1722777033,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":247,"completion_tokens":5,"total_tokens":252,"search_count":0}}
+Question: 80
+{"id":"chatcmpl-ME6DE0184LAbotc","object":"chat.completion","created":1722777037,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":157,"completion_tokens":5,"total_tokens":162,"search_count":0}}
+Question: 81
+{"id":"chatcmpl-MFF300184LAfoXl","object":"chat.completion","created":1722777041,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":136,"completion_tokens":5,"total_tokens":141,"search_count":0}}
+Question: 82
+{"id":"chatcmpl-M521F0184LAiok1","object":"chat.completion","created":1722777044,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":5,"total_tokens":140,"search_count":0}}
+Question: 83
+{"id":"chatcmpl-MD6910184LAmo2l","object":"chat.completion","created":1722777048,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":128,"completion_tokens":5,"total_tokens":133,"search_count":0}}
+Question: 84
+{"id":"chatcmpl-M511B0184LAqoJO","object":"chat.completion","created":1722777052,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":127,"completion_tokens":5,"total_tokens":132,"search_count":0}}
+Question: 85
+{"id":"chatcmpl-MF8CB0184LAtowM","object":"chat.completion","created":1722777055,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":5,"total_tokens":140,"search_count":0}}
+Question: 86
+{"id":"chatcmpl-MD3040184LAxoTt","object":"chat.completion","created":1722777059,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":134,"completion_tokens":5,"total_tokens":139,"search_count":0}}
+Question: 87
+{"id":"chatcmpl-M8DCF0184LB3ouq","object":"chat.completion","created":1722777063,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":134,"completion_tokens":5,"total_tokens":139,"search_count":0}}
+Question: 88
+{"id":"chatcmpl-M22210184LB6o1e","object":"chat.completion","created":1722777066,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":147,"completion_tokens":5,"total_tokens":152,"search_count":0}}
+Question: 89
+{"id":"chatcmpl-M6E980184LBAoxj","object":"chat.completion","created":1722777070,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":148,"completion_tokens":5,"total_tokens":153,"search_count":0}}
+Question: 90
+{"id":"chatcmpl-ME2990184LBEoSw","object":"chat.completion","created":1722777074,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":183,"completion_tokens":5,"total_tokens":188,"search_count":0}}
+Question: 91
+{"id":"chatcmpl-M781B0184LBIoaJ","object":"chat.completion","created":1722777078,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":264,"completion_tokens":5,"total_tokens":269,"search_count":0}}
+Question: 92
+{"id":"chatcmpl-M77780184LBMoFp","object":"chat.completion","created":1722777082,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":286,"completion_tokens":5,"total_tokens":291,"search_count":0}}
+Question: 93
+{"id":"chatcmpl-M91060184LBQot1","object":"chat.completion","created":1722777086,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":264,"completion_tokens":5,"total_tokens":269,"search_count":0}}
+Question: 94
+{"id":"chatcmpl-MC9F00184LBUoGH","object":"chat.completion","created":1722777090,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":261,"completion_tokens":5,"total_tokens":266,"search_count":0}}
+Question: 95
+{"id":"chatcmpl-M9FDE0184LBYodo","object":"chat.completion","created":1722777094,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":236,"completion_tokens":5,"total_tokens":241,"search_count":0}}
+Question: 96
+{"id":"chatcmpl-MD4500184LBcoU8","object":"chat.completion","created":1722777098,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":292,"completion_tokens":5,"total_tokens":297,"search_count":0}}
+Question: 97
+{"id":"chatcmpl-M003E0184LBfofM","object":"chat.completion","created":1722777101,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":272,"completion_tokens":5,"total_tokens":277,"search_count":0}}
+Question: 98
+{"id":"chatcmpl-MD42B0184LBjo4n","object":"chat.completion","created":1722777105,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":227,"completion_tokens":5,"total_tokens":232,"search_count":0}}
+Question: 99
+{"id":"chatcmpl-M2D780184LBnoA4","object":"chat.completion","created":1722777109,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":234,"completion_tokens":5,"total_tokens":239,"search_count":0}}
+Question: 100
+{"id":"chatcmpl-M53C00184LBroRR","object":"chat.completion","created":1722777113,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":250,"completion_tokens":5,"total_tokens":255,"search_count":0}}
+Question: 116
+{"id":"chatcmpl-ME8970184LBuour","object":"chat.completion","created":1722777116,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":445,"completion_tokens":5,"total_tokens":450,"search_count":0}}
+Question: 117
+{"id":"chatcmpl-M31250184LBxorl","object":"chat.completion","created":1722777119,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":460,"completion_tokens":5,"total_tokens":465,"search_count":0}}
+Question: 118
+{"id":"chatcmpl-M8D690184LC3oQY","object":"chat.completion","created":1722777123,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":441,"completion_tokens":5,"total_tokens":446,"search_count":0}}
+Question: 119
+{"id":"chatcmpl-M75690184LC6o4f","object":"chat.completion","created":1722777126,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":479,"completion_tokens":5,"total_tokens":484,"search_count":0}}
+Question: 120
+{"id":"chatcmpl-MCFAD0184LCAoIk","object":"chat.completion","created":1722777130,"model":"Baichuan3-Turbo","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":490,"completion_tokens":5,"total_tokens":495,"search_count":0}}

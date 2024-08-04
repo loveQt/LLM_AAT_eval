@@ -1,0 +1,187 @@
+Model: ERNIE-4.0-Turbo-8K
+Question: 1
+{"id":"as-zvpvutfdcz","object":"chat.completion","created":1722580429,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":203,"completion_tokens":5,"total_tokens":208}}
+Question: 2
+{"id":"as-i6arzu0dyt","object":"chat.completion","created":1722580434,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":178,"completion_tokens":5,"total_tokens":183}}
+Question: 3
+{"id":"as-9bpewvjae4","object":"chat.completion","created":1722580437,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":195,"completion_tokens":5,"total_tokens":200}}
+Question: 4
+{"id":"as-yksw4gu96f","object":"chat.completion","created":1722580441,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":117,"completion_tokens":5,"total_tokens":122}}
+Question: 5
+{"id":"as-u02ckz8dbk","object":"chat.completion","created":1722580445,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":170,"completion_tokens":5,"total_tokens":175}}
+Question: 6
+{"id":"as-guv4fdaz4j","object":"chat.completion","created":1722580450,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":150,"completion_tokens":5,"total_tokens":155}}
+Question: 7
+{"id":"as-44nami9bt7","object":"chat.completion","created":1722580453,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":186,"completion_tokens":5,"total_tokens":191}}
+Question: 8
+{"id":"as-tstmasztmq","object":"chat.completion","created":1722580459,"result":"```json\n{\"answer\":\"A\"}\n```","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":195,"completion_tokens":10,"total_tokens":205}}
+Question: 9
+{"id":"as-dqaryj44wx","object":"chat.completion","created":1722580463,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":114,"completion_tokens":5,"total_tokens":119}}
+Question: 10
+{"id":"as-s59j43f76f","object":"chat.completion","created":1722580467,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":130,"completion_tokens":5,"total_tokens":135}}
+Question: 12
+{"id":"as-cqrukhy0md","object":"chat.completion","created":1722580471,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":106,"completion_tokens":5,"total_tokens":111}}
+Question: 13
+{"id":"as-dea3kmznh6","object":"chat.completion","created":1722580475,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":169,"completion_tokens":5,"total_tokens":174}}
+Question: 14
+{"id":"as-jfaf86zauj","object":"chat.completion","created":1722580479,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":141,"completion_tokens":5,"total_tokens":146}}
+Question: 15
+{"id":"as-zcss6dzm0h","object":"chat.completion","created":1722580482,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":94,"completion_tokens":5,"total_tokens":99}}
+Question: 16
+{"id":"as-8yskuuqqy3","object":"chat.completion","created":1722580485,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":141,"completion_tokens":5,"total_tokens":146}}
+Question: 17
+{"id":"as-9wqmzaumpt","object":"chat.completion","created":1722580489,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":134,"completion_tokens":5,"total_tokens":139}}
+Question: 18
+{"id":"as-er47dh8u5f","object":"chat.completion","created":1722580492,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":132,"completion_tokens":5,"total_tokens":137}}
+Question: 19
+{"id":"as-jgbt0r2ut2","object":"chat.completion","created":1722580496,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":154,"completion_tokens":5,"total_tokens":159}}
+Question: 20
+{"id":"as-ce80qg2a9j","object":"chat.completion","created":1722580499,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":154,"completion_tokens":5,"total_tokens":159}}
+Question: 21
+{"id":"as-ssh4pikjxk","object":"chat.completion","created":1722580504,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":142,"completion_tokens":5,"total_tokens":147}}
+Question: 22
+{"id":"as-guqfcwspry","object":"chat.completion","created":1722580509,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":127,"completion_tokens":5,"total_tokens":132}}
+Question: 23
+{"id":"as-9zrgj9bgjj","object":"chat.completion","created":1722580512,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":125,"completion_tokens":5,"total_tokens":130}}
+Question: 24
+{"id":"as-e9gw3r9uuu","object":"chat.completion","created":1722580516,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":147,"completion_tokens":5,"total_tokens":152}}
+Question: 25
+{"id":"as-2d0w96z4gp","object":"chat.completion","created":1722580519,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":157,"completion_tokens":5,"total_tokens":162}}
+Question: 26
+{"id":"as-nsfvpe0cdu","object":"chat.completion","created":1722580522,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":144,"completion_tokens":5,"total_tokens":149}}
+Question: 27
+{"id":"as-ut0tj3e60w","object":"chat.completion","created":1722580526,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":133,"completion_tokens":5,"total_tokens":138}}
+Question: 28
+{"id":"as-c4kzn1bvsr","object":"chat.completion","created":1722580529,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":179,"completion_tokens":5,"total_tokens":184}}
+Question: 29
+{"id":"as-b1ajfa9wq0","object":"chat.completion","created":1722580535,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":108,"completion_tokens":5,"total_tokens":113}}
+Question: 30
+{"id":"as-0kvbhi121a","object":"chat.completion","created":1722580538,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":177,"completion_tokens":5,"total_tokens":182}}
+Question: 31
+{"id":"as-5hv4zf0ejw","object":"chat.completion","created":1722580541,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":155,"completion_tokens":5,"total_tokens":160}}
+Question: 32
+{"id":"as-iy2va4z2r1","object":"chat.completion","created":1722580544,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":187,"completion_tokens":5,"total_tokens":192}}
+Question: 33
+{"id":"as-2y1deg3zgb","object":"chat.completion","created":1722580548,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":161,"completion_tokens":5,"total_tokens":166}}
+Question: 34
+{"id":"as-px8v4v8n6b","object":"chat.completion","created":1722580551,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":153,"completion_tokens":5,"total_tokens":158}}
+Question: 35
+{"id":"as-s27289ykgy","object":"chat.completion","created":1722580555,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":183,"completion_tokens":5,"total_tokens":188}}
+Question: 36
+{"id":"as-y1ixfm1ajd","object":"chat.completion","created":1722580558,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":209,"completion_tokens":5,"total_tokens":214}}
+Question: 37
+{"id":"as-da8qsp7y17","object":"chat.completion","created":1722580562,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":194,"completion_tokens":5,"total_tokens":199}}
+Question: 38
+{"id":"as-pajwxvkjpp","object":"chat.completion","created":1722580565,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":179,"completion_tokens":5,"total_tokens":184}}
+Question: 39
+{"id":"as-5jifx01z8u","object":"chat.completion","created":1722580570,"result":"```json\n{\"answer\":\"C\"}\n```","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":192,"completion_tokens":10,"total_tokens":202}}
+Question: 40
+{"id":"as-f61cudr3i3","object":"chat.completion","created":1722580573,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":62,"completion_tokens":5,"total_tokens":67}}
+Question: 41
+{"id":"as-a2d1mfgqnv","object":"chat.completion","created":1722580578,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":237,"completion_tokens":5,"total_tokens":242}}
+Question: 42
+{"id":"as-at67w6nxkx","object":"chat.completion","created":1722580583,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":207,"completion_tokens":5,"total_tokens":212}}
+Question: 43
+{"id":"as-cmth9k8q2y","object":"chat.completion","created":1722580587,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":197,"completion_tokens":5,"total_tokens":202}}
+Question: 44
+{"id":"as-9ycxmdd8h0","object":"chat.completion","created":1722580591,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":208,"completion_tokens":5,"total_tokens":213}}
+Question: 45
+{"id":"as-9iypv6nqe2","object":"chat.completion","created":1722580595,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":162,"completion_tokens":5,"total_tokens":167}}
+Question: 46
+{"id":"as-84c8yviv7q","object":"chat.completion","created":1722580598,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":168,"completion_tokens":5,"total_tokens":173}}
+Question: 47
+{"id":"as-9mmqzscui6","object":"chat.completion","created":1722580601,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":181,"completion_tokens":5,"total_tokens":186}}
+Question: 48
+{"id":"as-s1uhxi0ma4","object":"chat.completion","created":1722580604,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":234,"completion_tokens":5,"total_tokens":239}}
+Question: 49
+{"id":"as-vrwk3r4v06","object":"chat.completion","created":1722580609,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":162,"completion_tokens":5,"total_tokens":167}}
+Question: 50
+{"id":"as-ug9mskpti1","object":"chat.completion","created":1722580612,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":197,"completion_tokens":5,"total_tokens":202}}
+Question: 51
+{"id":"as-hr5q30731c","object":"chat.completion","created":1722580615,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":236,"completion_tokens":5,"total_tokens":241}}
+Question: 52
+{"id":"as-wvd63vb498","object":"chat.completion","created":1722580619,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":202,"completion_tokens":5,"total_tokens":207}}
+Question: 53
+{"id":"as-h3xa06wtci","object":"chat.completion","created":1722580622,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":193,"completion_tokens":5,"total_tokens":198}}
+Question: 54
+{"id":"as-mkfv54hcsn","object":"chat.completion","created":1722580626,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":252,"completion_tokens":5,"total_tokens":257}}
+Question: 55
+{"id":"as-65mbvmp3br","object":"chat.completion","created":1722580629,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":193,"completion_tokens":5,"total_tokens":198}}
+Question: 56
+{"id":"as-4irammev7h","object":"chat.completion","created":1722580632,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":97,"completion_tokens":5,"total_tokens":102}}
+Question: 57
+{"id":"as-n184pafigi","object":"chat.completion","created":1722580635,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":87,"completion_tokens":5,"total_tokens":92}}
+Question: 58
+{"id":"as-jh9p5afkke","object":"chat.completion","created":1722580639,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":88,"completion_tokens":5,"total_tokens":93}}
+Question: 59
+{"id":"as-7dtd36en69","object":"chat.completion","created":1722580642,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":166,"completion_tokens":5,"total_tokens":171}}
+Question: 60
+{"id":"as-bjuanyrvn8","object":"chat.completion","created":1722580647,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":95,"completion_tokens":5,"total_tokens":100}}
+Question: 61
+{"id":"as-xzrzx524f6","object":"chat.completion","created":1722580650,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":95,"completion_tokens":5,"total_tokens":100}}
+Question: 62
+{"id":"as-mzxak9m31m","object":"chat.completion","created":1722580654,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":162,"completion_tokens":5,"total_tokens":167}}
+Question: 64
+{"id":"as-m08fe0buiq","object":"chat.completion","created":1722580658,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":116,"completion_tokens":5,"total_tokens":121}}
+Question: 65
+{"id":"as-4fdf13gfqw","object":"chat.completion","created":1722580662,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":116,"completion_tokens":5,"total_tokens":121}}
+Question: 76
+{"id":"as-sz1twmneim","object":"chat.completion","created":1722580665,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":176,"completion_tokens":5,"total_tokens":181}}
+Question: 77
+{"id":"as-x3zp0yz2tc","object":"chat.completion","created":1722580668,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":181,"completion_tokens":5,"total_tokens":186}}
+Question: 78
+{"id":"as-hrthq5sv88","object":"chat.completion","created":1722580672,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":165,"completion_tokens":5,"total_tokens":170}}
+Question: 79
+{"id":"as-td9sqhgn3k","object":"chat.completion","created":1722580675,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":164,"completion_tokens":5,"total_tokens":169}}
+Question: 80
+{"id":"as-57fihc5c4p","object":"chat.completion","created":1722580679,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":171,"completion_tokens":5,"total_tokens":176}}
+Question: 81
+{"id":"as-ra1cjq8p7x","object":"chat.completion","created":1722580683,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":179,"completion_tokens":5,"total_tokens":184}}
+Question: 82
+{"id":"as-tpjz3wq349","object":"chat.completion","created":1722580686,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":156,"completion_tokens":5,"total_tokens":161}}
+Question: 83
+{"id":"as-u4j2gj386m","object":"chat.completion","created":1722580689,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":147,"completion_tokens":5,"total_tokens":152}}
+Question: 84
+{"id":"as-azsw15zmmr","object":"chat.completion","created":1722580694,"result":"```json\n{\"answer\":\"C\"}\n```","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":165,"completion_tokens":10,"total_tokens":175}}
+Question: 85
+{"id":"as-8i1jz04hch","object":"chat.completion","created":1722580698,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":219,"completion_tokens":5,"total_tokens":224}}
+Question: 86
+{"id":"as-dwzsndnxem","object":"chat.completion","created":1722580703,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":53,"completion_tokens":5,"total_tokens":58}}
+Question: 87
+{"id":"as-x83itiw54v","object":"chat.completion","created":1722580707,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":68,"completion_tokens":5,"total_tokens":73}}
+Question: 88
+{"id":"as-3jtti3u16m","object":"chat.completion","created":1722580710,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":68,"completion_tokens":5,"total_tokens":73}}
+Question: 89
+{"id":"as-jjkr5c459i","object":"chat.completion","created":1722580713,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":78,"completion_tokens":5,"total_tokens":83}}
+Question: 90
+{"id":"as-rr7tzqgtfy","object":"chat.completion","created":1722580716,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":78,"completion_tokens":5,"total_tokens":83}}
+Question: 91
+{"id":"as-mh9d6f1st2","object":"chat.completion","created":1722580720,"result":"{\"answer\":\"A\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":67,"completion_tokens":5,"total_tokens":72}}
+Question: 92
+{"id":"as-yaztntecnm","object":"chat.completion","created":1722580723,"result":"{\"answer\":\"D\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":71,"completion_tokens":5,"total_tokens":76}}
+Question: 93
+{"id":"as-c98k68s2kp","object":"chat.completion","created":1722580727,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":71,"completion_tokens":5,"total_tokens":76}}
+Question: 94
+{"id":"as-anfxsrmrta","object":"chat.completion","created":1722580730,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":67,"completion_tokens":5,"total_tokens":72}}
+Question: 95
+{"id":"as-dkqay0ddcz","object":"chat.completion","created":1722580733,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":68,"completion_tokens":5,"total_tokens":73}}
+Question: 96
+{"id":"as-mxxy45pinu","object":"chat.completion","created":1722687792,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":264,"completion_tokens":5,"total_tokens":269}}
+Question: 97
+{"id":"as-4s5x5zy8k3","object":"chat.completion","created":1722580740,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":231,"completion_tokens":5,"total_tokens":236}}
+Question: 98
+{"id":"as-yn0v3v5rbs","object":"chat.completion","created":1722580743,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":237,"completion_tokens":5,"total_tokens":242}}
+Question: 99
+{"id":"as-p0pajtuvym","object":"chat.completion","created":1722580746,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":130,"completion_tokens":5,"total_tokens":135}}
+Question: 100
+{"id":"as-1rss9fxs92","object":"chat.completion","created":1722580749,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":150,"completion_tokens":5,"total_tokens":155}}
+Question: 101
+{"id":"as-z9fncnkbka","object":"chat.completion","created":1722580752,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":168,"completion_tokens":5,"total_tokens":173}}
+Question: 102
+{"id":"as-hb51tz15ia","object":"chat.completion","created":1722580756,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":196,"completion_tokens":5,"total_tokens":201}}
+Question: 103
+{"id":"as-7wypjzxgu3","object":"chat.completion","created":1722580760,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":196,"completion_tokens":5,"total_tokens":201}}
+Question: 104
+{"id":"as-2mwg77t2g2","object":"chat.completion","created":1722580763,"result":"{\"answer\":\"C\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":162,"completion_tokens":5,"total_tokens":167}}
+Question: 105
+{"id":"as-1548tmjnw4","object":"chat.completion","created":1722580766,"result":"{\"answer\":\"B\"}","is_truncated":false,"need_clear_history":false,"finish_reason":"normal","usage":{"prompt_tokens":157,"completion_tokens":5,"total_tokens":162}}

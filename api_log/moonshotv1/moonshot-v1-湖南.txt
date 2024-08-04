@@ -1,0 +1,187 @@
+Model: moonshot-v1-8k
+Question: 1
+{"id":"chatcmpl-3afd98ea41ff43879dc0241beb8b2e31","object":"chat.completion","created":1722531236,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":221,"completion_tokens":7,"total_tokens":228}}
+Question: 2
+{"id":"chatcmpl-c530eb779f3141d2a1040469ad726c68","object":"chat.completion","created":1722531239,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":187,"completion_tokens":7,"total_tokens":194}}
+Question: 3
+{"id":"cmpl-8c6364b1655f47dbb3761a0d03b165f1","object":"chat.completion","created":1722531245,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":215,"completion_tokens":7,"total_tokens":222}}
+Question: 4
+{"id":"cmpl-2ae3637cd7b74589ad25f47d30b4bb1c","object":"chat.completion","created":1722531250,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":139,"completion_tokens":7,"total_tokens":146}}
+Question: 5
+{"id":"chatcmpl-2339c6b3b68d48b6aa6325bd22c88827","object":"chat.completion","created":1722531255,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":195,"completion_tokens":7,"total_tokens":202}}
+Question: 6
+{"id":"chatcmpl-6eab7742bc02406a8a89b9c0ccb57155","object":"chat.completion","created":1722531262,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\": \"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":188,"completion_tokens":9,"total_tokens":197}}
+Question: 7
+{"id":"cmpl-3d23b4cff3b047808054120e6b10222d","object":"chat.completion","created":1722531267,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":188,"completion_tokens":7,"total_tokens":195}}
+Question: 8
+{"id":"chatcmpl-674a191133c24311848a2437202f93ae","object":"chat.completion","created":1722531273,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":194,"completion_tokens":7,"total_tokens":201}}
+Question: 9
+{"id":"cmpl-d95daa74dee64dc0a47aabac806a3e53","object":"chat.completion","created":1722531278,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":127,"completion_tokens":7,"total_tokens":134}}
+Question: 10
+{"id":"chatcmpl-849e1ee3d8d148abadf7ad9fd1310039","object":"chat.completion","created":1722531283,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":147,"completion_tokens":7,"total_tokens":154}}
+Question: 12
+{"id":"chatcmpl-8b70a52dc5414f6dabd3111df704ac44","object":"chat.completion","created":1722531287,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":116,"completion_tokens":7,"total_tokens":123}}
+Question: 13
+{"id":"chatcmpl-00778bca5a804e349a179178cb923917","object":"chat.completion","created":1722531290,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":7,"total_tokens":200}}
+Question: 14
+{"id":"cmpl-206491657a284b3a88a909817c39f9f1","object":"chat.completion","created":1722531294,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":152,"completion_tokens":7,"total_tokens":159}}
+Question: 15
+{"id":"cmpl-2b48b4788c8a41d6bbac8ef28841e481","object":"chat.completion","created":1722531300,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":104,"completion_tokens":7,"total_tokens":111}}
+Question: 16
+{"id":"chatcmpl-9e004cc5378a48c4b22b7b6e4f500a9f","object":"chat.completion","created":1722531305,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":153,"completion_tokens":7,"total_tokens":160}}
+Question: 17
+{"id":"cmpl-b08135d3e8ab4f88991d8d3e82457715","object":"chat.completion","created":1722531310,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":141,"completion_tokens":7,"total_tokens":148}}
+Question: 18
+{"id":"chatcmpl-e48f6176158f4f0682553e2d323ad76d","object":"chat.completion","created":1722531316,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":148,"completion_tokens":7,"total_tokens":155}}
+Question: 19
+{"id":"cmpl-2f003f8b94ac4894845a2fa21ad727bf","object":"chat.completion","created":1722531319,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":162,"completion_tokens":7,"total_tokens":169}}
+Question: 20
+{"id":"chatcmpl-76a6ae6670ff43368f48a4320551b6d7","object":"chat.completion","created":1722531324,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":153,"completion_tokens":7,"total_tokens":160}}
+Question: 21
+{"id":"chatcmpl-5ac12ed4edcb4fe8b7cb01190d654f3a","object":"chat.completion","created":1722531330,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":148,"completion_tokens":7,"total_tokens":155}}
+Question: 22
+{"id":"cmpl-74b2ba38935045208eaed501aee2c462","object":"chat.completion","created":1722531333,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\": \"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":9,"total_tokens":146}}
+Question: 23
+{"id":"chatcmpl-d93b75ceaeb84033811e3a89f91aa3c3","object":"chat.completion","created":1722531337,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":140,"completion_tokens":7,"total_tokens":147}}
+Question: 24
+{"id":"cmpl-7578abf7588c4fa99b2c3dbec0d45cd4","object":"chat.completion","created":1722531341,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":152,"completion_tokens":7,"total_tokens":159}}
+Question: 25
+{"id":"chatcmpl-965c4f55dd4f466e8cdcefcbaf401fff","object":"chat.completion","created":1722531345,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":158,"completion_tokens":7,"total_tokens":165}}
+Question: 26
+{"id":"chatcmpl-34d844389fb44b45b785dae20f8c4fd0","object":"chat.completion","created":1722531348,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\": \"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":153,"completion_tokens":9,"total_tokens":162}}
+Question: 27
+{"id":"cmpl-fb280d33b1db457f8737889ee3dd0df0","object":"chat.completion","created":1722531352,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":142,"completion_tokens":7,"total_tokens":149}}
+Question: 28
+{"id":"cmpl-77097226dbd44269b4a7421566e0aebf","object":"chat.completion","created":1722531355,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":192,"completion_tokens":7,"total_tokens":199}}
+Question: 29
+{"id":"chatcmpl-5d8c6e8add504ab881b9414f46e71885","object":"chat.completion","created":1722531361,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":118,"completion_tokens":7,"total_tokens":125}}
+Question: 30
+{"id":"cmpl-a771ee2ca9b349a99a169dd737f97a4a","object":"chat.completion","created":1722531366,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":186,"completion_tokens":7,"total_tokens":193}}
+Question: 31
+{"id":"chatcmpl-39d2f0aedadb4119b880dbb1d22a918b","object":"chat.completion","created":1722531374,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":164,"completion_tokens":7,"total_tokens":171}}
+Question: 32
+{"id":"cmpl-f26958880a344ac69ccf3d8a34bd89c3","object":"chat.completion","created":1722531380,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":190,"completion_tokens":7,"total_tokens":197}}
+Question: 33
+{"id":"chatcmpl-771c5788f7f74bff981af8213fa58768","object":"chat.completion","created":1722531384,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":171,"completion_tokens":7,"total_tokens":178}}
+Question: 34
+{"id":"chatcmpl-1eb331ba99494e7bb04e44aa8f0a686d","object":"chat.completion","created":1722531393,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":163,"completion_tokens":7,"total_tokens":170}}
+Question: 35
+{"id":"cmpl-c77a3ac73ce04959be65a07f405b6120","object":"chat.completion","created":1722531399,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\": \"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":187,"completion_tokens":9,"total_tokens":196}}
+Question: 36
+{"id":"chatcmpl-8492d68733e54a57b4a435a5b7f75c79","object":"chat.completion","created":1722531403,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":218,"completion_tokens":7,"total_tokens":225}}
+Question: 37
+{"id":"cmpl-9058b0993f8b4cda964e563379d10075","object":"chat.completion","created":1722531409,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"A"},"finish_reason":"stop"}],"usage":{"prompt_tokens":207,"completion_tokens":1,"total_tokens":208}}
+Question: 38
+{"id":"chatcmpl-891df4d7aad74b44b063e6d1fc922997","object":"chat.completion","created":1722531412,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":7,"total_tokens":200}}
+Question: 39
+{"id":"chatcmpl-a71f0eedb5a04eb9a77207d6a83c02c0","object":"chat.completion","created":1722531415,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":201,"completion_tokens":7,"total_tokens":208}}
+Question: 40
+{"id":"cmpl-f94f76454d754292a75926e6c28a8906","object":"chat.completion","created":1722531419,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":73,"completion_tokens":7,"total_tokens":80}}
+Question: 41
+{"id":"cmpl-259eb72212674a84b674ad8620092619","object":"chat.completion","created":1722531424,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":256,"completion_tokens":7,"total_tokens":263}}
+Question: 42
+{"id":"cmpl-2323275fbdf7405480ccad9c00a91c3b","object":"chat.completion","created":1722531427,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":218,"completion_tokens":7,"total_tokens":225}}
+Question: 43
+{"id":"chatcmpl-eb3d22e2441f4e39a0e04ff0903e8736","object":"chat.completion","created":1722531431,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":200,"completion_tokens":7,"total_tokens":207}}
+Question: 44
+{"id":"cmpl-121ffbd8c0e54623a7057139a3fa627e","object":"chat.completion","created":1722531436,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":206,"completion_tokens":7,"total_tokens":213}}
+Question: 45
+{"id":"cmpl-530a0b0b85e443439f131d0cab57ad51","object":"chat.completion","created":1722531441,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":173,"completion_tokens":7,"total_tokens":180}}
+Question: 46
+{"id":"chatcmpl-dd1c74d71a3a48fdb175cec9b6255037","object":"chat.completion","created":1722531446,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"C"},"finish_reason":"stop"}],"usage":{"prompt_tokens":180,"completion_tokens":1,"total_tokens":181}}
+Question: 47
+{"id":"chatcmpl-aeb66258128d4e41bdd1b8b21c9ca4dc","object":"chat.completion","created":1722531451,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":191,"completion_tokens":7,"total_tokens":198}}
+Question: 48
+{"id":"chatcmpl-d29b78de41a947b885d3609c2bb72df9","object":"chat.completion","created":1722531456,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"D"},"finish_reason":"stop"}],"usage":{"prompt_tokens":242,"completion_tokens":1,"total_tokens":243}}
+Question: 49
+{"id":"chatcmpl-8e1a83731d9c4aa5b99e57ae8a1ce671","object":"chat.completion","created":1722531461,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":183,"completion_tokens":7,"total_tokens":190}}
+Question: 50
+{"id":"chatcmpl-f686952301504367bac2e210c71e8bdd","object":"chat.completion","created":1722531464,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":206,"completion_tokens":7,"total_tokens":213}}
+Question: 51
+{"id":"chatcmpl-d06496e505794f808b18feee31f5f89c","object":"chat.completion","created":1722531468,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":237,"completion_tokens":7,"total_tokens":244}}
+Question: 52
+{"id":"chatcmpl-b52af76e52c7497a925a5cc6fa546cb0","object":"chat.completion","created":1722531471,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":214,"completion_tokens":7,"total_tokens":221}}
+Question: 53
+{"id":"cmpl-d7b93fb7c58042678dcedceeeb05567d","object":"chat.completion","created":1722531475,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":B}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":245,"completion_tokens":7,"total_tokens":252}}
+Question: 54
+{"id":"chatcmpl-c67ab7c862c944fe8431607ef2748741","object":"chat.completion","created":1722531479,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\": \"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":309,"completion_tokens":9,"total_tokens":318}}
+Question: 55
+{"id":"cmpl-eca21d9fddeb4c708995b51bd9dc8cb5","object":"chat.completion","created":1722531483,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":203,"completion_tokens":7,"total_tokens":210}}
+Question: 56
+{"id":"chatcmpl-82cadd9025ba484a982bd3ea85ac263c","object":"chat.completion","created":1722531487,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":107,"completion_tokens":7,"total_tokens":114}}
+Question: 57
+{"id":"chatcmpl-bfd27df8c73c472b86b397be3b44f299","object":"chat.completion","created":1722531491,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":95,"completion_tokens":7,"total_tokens":102}}
+Question: 58
+{"id":"chatcmpl-6da7558b28884ec5a03a6b43fc76e196","object":"chat.completion","created":1722531496,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":100,"completion_tokens":7,"total_tokens":107}}
+Question: 59
+{"id":"cmpl-d08641a54f644539bec566ede30fc12e","object":"chat.completion","created":1722531502,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":167,"completion_tokens":7,"total_tokens":174}}
+Question: 60
+{"id":"cmpl-2673c99bd511477b9c7f470aba89e2a0","object":"chat.completion","created":1722531507,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":105,"completion_tokens":7,"total_tokens":112}}
+Question: 61
+{"id":"cmpl-d8d7efd406a647ea9770a686867fa8c8","object":"chat.completion","created":1722531512,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":106,"completion_tokens":7,"total_tokens":113}}
+Question: 62
+{"id":"cmpl-feff63176d744329a04b69b507481b3b","object":"chat.completion","created":1722531516,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":156,"completion_tokens":7,"total_tokens":163}}
+Question: 64
+{"id":"chatcmpl-505c2365d64c4898adbabeac88499eec","object":"chat.completion","created":1722531521,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":123,"completion_tokens":7,"total_tokens":130}}
+Question: 65
+{"id":"cmpl-36b338d91b52498a86f4e4429b060a6e","object":"chat.completion","created":1722531525,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":126,"completion_tokens":7,"total_tokens":133}}
+Question: 76
+{"id":"chatcmpl-1485b408532542a5a89f7d8e19dcf565","object":"chat.completion","created":1722531530,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":182,"completion_tokens":7,"total_tokens":189}}
+Question: 77
+{"id":"chatcmpl-2f25d2571f0a4b26b8f76a8aac1b074c","object":"chat.completion","created":1722531536,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":7,"total_tokens":200}}
+Question: 78
+{"id":"cmpl-18970d97589549bbb9fca80639d58e5a","object":"chat.completion","created":1722531541,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":168,"completion_tokens":7,"total_tokens":175}}
+Question: 79
+{"id":"cmpl-1175fb0d709e4e6295891ba63dca92d8","object":"chat.completion","created":1722531545,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":170,"completion_tokens":7,"total_tokens":177}}
+Question: 80
+{"id":"cmpl-bac7086854c341ddacaac879f8605aee","object":"chat.completion","created":1722531550,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":178,"completion_tokens":7,"total_tokens":185}}
+Question: 81
+{"id":"cmpl-208c3ef81e074038a58e7059dc7b4d74","object":"chat.completion","created":1722531556,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":193,"completion_tokens":7,"total_tokens":200}}
+Question: 82
+{"id":"chatcmpl-cc7765ce502449fd8c4af3e07297e5d4","object":"chat.completion","created":1722531561,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":170,"completion_tokens":7,"total_tokens":177}}
+Question: 83
+{"id":"chatcmpl-60e9a9d1bc014feaac7db5abfae0c9e1","object":"chat.completion","created":1722531566,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":154,"completion_tokens":7,"total_tokens":161}}
+Question: 84
+{"id":"cmpl-5012d11bf8b24d7887f172dc046e3875","object":"chat.completion","created":1722531572,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":175,"completion_tokens":7,"total_tokens":182}}
+Question: 85
+{"id":"cmpl-abad30d1e4164336ae765edd01c2d902","object":"chat.completion","created":1722531579,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":226,"completion_tokens":7,"total_tokens":233}}
+Question: 86
+{"id":"chatcmpl-9c87c51af133406a9e93564696c47c9d","object":"chat.completion","created":1722531584,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":65,"completion_tokens":7,"total_tokens":72}}
+Question: 87
+{"id":"chatcmpl-5cc182e20c234e4b80a35137ced839fb","object":"chat.completion","created":1722531589,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":79,"completion_tokens":7,"total_tokens":86}}
+Question: 88
+{"id":"cmpl-8bfa90b86a4248f4b6912aae0ef0a9fa","object":"chat.completion","created":1722531595,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":79,"completion_tokens":7,"total_tokens":86}}
+Question: 89
+{"id":"cmpl-3ad6bcac3b4449e0bb7d95eb8cb3cfa7","object":"chat.completion","created":1722531599,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":89,"completion_tokens":7,"total_tokens":96}}
+Question: 90
+{"id":"chatcmpl-182fa900ff764d2cb33a57c34c6289dd","object":"chat.completion","created":1722531602,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":90,"completion_tokens":7,"total_tokens":97}}
+Question: 91
+{"id":"cmpl-7ebdba5a3f844175a41c201c2f3cab5d","object":"chat.completion","created":1722531606,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":80,"completion_tokens":7,"total_tokens":87}}
+Question: 92
+{"id":"chatcmpl-20a77ad716c7413b8b25d8fd469f5823","object":"chat.completion","created":1722531611,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":81,"completion_tokens":7,"total_tokens":88}}
+Question: 93
+{"id":"chatcmpl-2c4b79b17de14378b67938d906d5d6c4","object":"chat.completion","created":1722531615,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":79,"completion_tokens":7,"total_tokens":86}}
+Question: 94
+{"id":"chatcmpl-b079b7f9cb0b4f18805ecd5cdd93f1e0","object":"chat.completion","created":1722531624,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":81,"completion_tokens":7,"total_tokens":88}}
+Question: 95
+{"id":"chatcmpl-5306f99115a242efa0e626ef18e0974b","object":"chat.completion","created":1722531631,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":77,"completion_tokens":7,"total_tokens":84}}
+Question: 96
+{"id":"cmpl-29f1e91bc6814cccb7a56c598988b73c","object":"chat.completion","created":1722531636,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":285,"completion_tokens":7,"total_tokens":292}}
+Question: 97
+{"id":"chatcmpl-32032d0f2d584ebe81e9c9aa66cbd750","object":"chat.completion","created":1722531642,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":233,"completion_tokens":7,"total_tokens":240}}
+Question: 98
+{"id":"cmpl-ef9355cb7d5c4caa978babc04b178ad3","object":"chat.completion","created":1722531646,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":241,"completion_tokens":7,"total_tokens":248}}
+Question: 99
+{"id":"chatcmpl-6d239d0310494a3ebac1dcccef629ca1","object":"chat.completion","created":1722531649,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":140,"completion_tokens":7,"total_tokens":147}}
+Question: 100
+{"id":"chatcmpl-78928f5f1f6b48de8afd78896ec2e28f","object":"chat.completion","created":1722531654,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":153,"completion_tokens":7,"total_tokens":160}}
+Question: 101
+{"id":"chatcmpl-f4159a4005104874b90687b326d497e4","object":"chat.completion","created":1722531658,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":176,"completion_tokens":7,"total_tokens":183}}
+Question: 102
+{"id":"chatcmpl-99f2df515d5348a5835729135eab93df","object":"chat.completion","created":1722531661,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":204,"completion_tokens":7,"total_tokens":211}}
+Question: 103
+{"id":"chatcmpl-a370f80588bf4f1d892a6af9c0b226aa","object":"chat.completion","created":1722531665,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":202,"completion_tokens":7,"total_tokens":209}}
+Question: 104
+{"id":"chatcmpl-3b54dde9140a4cedba07c5b926c12d24","object":"chat.completion","created":1722531670,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":179,"completion_tokens":7,"total_tokens":186}}
+Question: 105
+{"id":"chatcmpl-baf86e8e6b1c459884fd314d8e5d4529","object":"chat.completion","created":1722531673,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":176,"completion_tokens":7,"total_tokens":183}}

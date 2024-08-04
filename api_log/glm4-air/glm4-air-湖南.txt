@@ -1,0 +1,187 @@
+Model: glm-4-air
+Question: 1
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562820,"id":"20240802094019298578a1f99b41d5","model":"glm-4-air","request_id":"20240802094019298578a1f99b41d5","usage":{"completion_tokens":7,"prompt_tokens":199,"total_tokens":206}}
+Question: 2
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562824,"id":"202408020940232164cb5990e64d0e","model":"glm-4-air","request_id":"202408020940232164cb5990e64d0e","usage":{"completion_tokens":7,"prompt_tokens":174,"total_tokens":181}}
+Question: 3
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562827,"id":"202408020940261d7760b1e4284eb0","model":"glm-4-air","request_id":"202408020940261d7760b1e4284eb0","usage":{"completion_tokens":7,"prompt_tokens":197,"total_tokens":204}}
+Question: 4
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562830,"id":"20240802094030654554c0da464060","model":"glm-4-air","request_id":"20240802094030654554c0da464060","usage":{"completion_tokens":7,"prompt_tokens":117,"total_tokens":124}}
+Question: 5
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562834,"id":"2024080209403377bf67bc4b67410a","model":"glm-4-air","request_id":"2024080209403377bf67bc4b67410a","usage":{"completion_tokens":7,"prompt_tokens":169,"total_tokens":176}}
+Question: 6
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562837,"id":"20240802094037b6b49ad859764952","model":"glm-4-air","request_id":"20240802094037b6b49ad859764952","usage":{"completion_tokens":7,"prompt_tokens":156,"total_tokens":163}}
+Question: 7
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562841,"id":"202408020940402058bef6ad434c53","model":"glm-4-air","request_id":"202408020940402058bef6ad434c53","usage":{"completion_tokens":7,"prompt_tokens":180,"total_tokens":187}}
+Question: 8
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562844,"id":"20240802094044698bfa21a2f147f7","model":"glm-4-air","request_id":"20240802094044698bfa21a2f147f7","usage":{"completion_tokens":7,"prompt_tokens":191,"total_tokens":198}}
+Question: 9
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562848,"id":"20240802094047bee418c4e19a4ce0","model":"glm-4-air","request_id":"20240802094047bee418c4e19a4ce0","usage":{"completion_tokens":7,"prompt_tokens":117,"total_tokens":124}}
+Question: 10
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562852,"id":"202408020940519808d166e1ba4977","model":"glm-4-air","request_id":"202408020940519808d166e1ba4977","usage":{"completion_tokens":7,"prompt_tokens":133,"total_tokens":140}}
+Question: 12
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562858,"id":"20240802094058e66d675ffa804b9a","model":"glm-4-air","request_id":"20240802094058e66d675ffa804b9a","usage":{"completion_tokens":7,"prompt_tokens":106,"total_tokens":113}}
+Question: 13
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562862,"id":"20240802094101bee58e536a334492","model":"glm-4-air","request_id":"20240802094101bee58e536a334492","usage":{"completion_tokens":7,"prompt_tokens":175,"total_tokens":182}}
+Question: 14
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562865,"id":"20240802094105ca58a0f6026347eb","model":"glm-4-air","request_id":"20240802094105ca58a0f6026347eb","usage":{"completion_tokens":7,"prompt_tokens":150,"total_tokens":157}}
+Question: 15
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562869,"id":"20240802094108316640f2e62b4f4d","model":"glm-4-air","request_id":"20240802094108316640f2e62b4f4d","usage":{"completion_tokens":7,"prompt_tokens":97,"total_tokens":104}}
+Question: 16
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562872,"id":"20240802094112bf829c146a1d4888","model":"glm-4-air","request_id":"20240802094112bf829c146a1d4888","usage":{"completion_tokens":7,"prompt_tokens":145,"total_tokens":152}}
+Question: 17
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562876,"id":"202408020941153cb3092ca52e4cde","model":"glm-4-air","request_id":"202408020941153cb3092ca52e4cde","usage":{"completion_tokens":7,"prompt_tokens":130,"total_tokens":137}}
+Question: 18
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562879,"id":"20240802094119796df67582f34871","model":"glm-4-air","request_id":"20240802094119796df67582f34871","usage":{"completion_tokens":7,"prompt_tokens":139,"total_tokens":146}}
+Question: 19
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562883,"id":"2024080209412246c7adec6b374cf5","model":"glm-4-air","request_id":"2024080209412246c7adec6b374cf5","usage":{"completion_tokens":7,"prompt_tokens":162,"total_tokens":169}}
+Question: 20
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562886,"id":"20240802094125571f465ac366477e","model":"glm-4-air","request_id":"20240802094125571f465ac366477e","usage":{"completion_tokens":7,"prompt_tokens":159,"total_tokens":166}}
+Question: 21
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562889,"id":"20240802094129ad8019b289ad4d57","model":"glm-4-air","request_id":"20240802094129ad8019b289ad4d57","usage":{"completion_tokens":7,"prompt_tokens":136,"total_tokens":143}}
+Question: 22
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562892,"id":"20240802094132fae583e6641f4ca5","model":"glm-4-air","request_id":"20240802094132fae583e6641f4ca5","usage":{"completion_tokens":7,"prompt_tokens":130,"total_tokens":137}}
+Question: 23
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562896,"id":"2024080209413565623df459dc4602","model":"glm-4-air","request_id":"2024080209413565623df459dc4602","usage":{"completion_tokens":7,"prompt_tokens":131,"total_tokens":138}}
+Question: 24
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562900,"id":"202408020941392def5190ac81412c","model":"glm-4-air","request_id":"202408020941392def5190ac81412c","usage":{"completion_tokens":7,"prompt_tokens":148,"total_tokens":155}}
+Question: 25
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562904,"id":"2024080209414386eb1e389dfb4525","model":"glm-4-air","request_id":"2024080209414386eb1e389dfb4525","usage":{"completion_tokens":7,"prompt_tokens":157,"total_tokens":164}}
+Question: 26
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562907,"id":"2024080209414779c568f7f5ea48fe","model":"glm-4-air","request_id":"2024080209414779c568f7f5ea48fe","usage":{"completion_tokens":7,"prompt_tokens":146,"total_tokens":153}}
+Question: 27
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562911,"id":"20240802094150a7746742bcc149d5","model":"glm-4-air","request_id":"20240802094150a7746742bcc149d5","usage":{"completion_tokens":7,"prompt_tokens":134,"total_tokens":141}}
+Question: 28
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562915,"id":"202408020941547a769a105c034606","model":"glm-4-air","request_id":"202408020941547a769a105c034606","usage":{"completion_tokens":7,"prompt_tokens":179,"total_tokens":186}}
+Question: 29
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562919,"id":"202408020941582ee17fbd765f447c","model":"glm-4-air","request_id":"202408020941582ee17fbd765f447c","usage":{"completion_tokens":7,"prompt_tokens":110,"total_tokens":117}}
+Question: 30
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562922,"id":"202408020942011dee62a4da2f4290","model":"glm-4-air","request_id":"202408020942011dee62a4da2f4290","usage":{"completion_tokens":7,"prompt_tokens":178,"total_tokens":185}}
+Question: 31
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562925,"id":"2024080209420583cec65889b24b7f","model":"glm-4-air","request_id":"2024080209420583cec65889b24b7f","usage":{"completion_tokens":7,"prompt_tokens":156,"total_tokens":163}}
+Question: 32
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"答案：A","role":"assistant"}}],"created":1722562930,"id":"20240802094208230880b54bea4a7f","model":"glm-4-air","request_id":"20240802094208230880b54bea4a7f","usage":{"completion_tokens":7,"prompt_tokens":185,"total_tokens":192}}
+Question: 33
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562934,"id":"202408020942135fe4dfe76a334c11","model":"glm-4-air","request_id":"202408020942135fe4dfe76a334c11","usage":{"completion_tokens":7,"prompt_tokens":181,"total_tokens":188}}
+Question: 34
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562937,"id":"2024080209421728c8975717834a2c","model":"glm-4-air","request_id":"2024080209421728c8975717834a2c","usage":{"completion_tokens":7,"prompt_tokens":158,"total_tokens":165}}
+Question: 35
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562941,"id":"20240802094220c796e2976fda4499","model":"glm-4-air","request_id":"20240802094220c796e2976fda4499","usage":{"completion_tokens":7,"prompt_tokens":191,"total_tokens":198}}
+Question: 36
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562944,"id":"20240802094224d5e195489b2b41b9","model":"glm-4-air","request_id":"20240802094224d5e195489b2b41b9","usage":{"completion_tokens":7,"prompt_tokens":202,"total_tokens":209}}
+Question: 37
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562950,"id":"202408020942297b28a7bdaf9c48dc","model":"glm-4-air","request_id":"202408020942297b28a7bdaf9c48dc","usage":{"completion_tokens":7,"prompt_tokens":193,"total_tokens":200}}
+Question: 38
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562953,"id":"202408020942327e3ff10e52df476f","model":"glm-4-air","request_id":"202408020942327e3ff10e52df476f","usage":{"completion_tokens":7,"prompt_tokens":180,"total_tokens":187}}
+Question: 39
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562957,"id":"2024080209423679deec5b6fcd448d","model":"glm-4-air","request_id":"2024080209423679deec5b6fcd448d","usage":{"completion_tokens":7,"prompt_tokens":195,"total_tokens":202}}
+Question: 40
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562960,"id":"20240802094240e7d50087aad34138","model":"glm-4-air","request_id":"20240802094240e7d50087aad34138","usage":{"completion_tokens":7,"prompt_tokens":65,"total_tokens":72}}
+Question: 41
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562964,"id":"20240802094243e86a63c408614624","model":"glm-4-air","request_id":"20240802094243e86a63c408614624","usage":{"completion_tokens":7,"prompt_tokens":236,"total_tokens":243}}
+Question: 42
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562967,"id":"2024080209424674d21098b7074698","model":"glm-4-air","request_id":"2024080209424674d21098b7074698","usage":{"completion_tokens":7,"prompt_tokens":206,"total_tokens":213}}
+Question: 43
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722562971,"id":"2024080209425054349b735b7f4b4c","model":"glm-4-air","request_id":"2024080209425054349b735b7f4b4c","usage":{"completion_tokens":7,"prompt_tokens":204,"total_tokens":211}}
+Question: 44
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562975,"id":"20240802094254f94f904744c549d9","model":"glm-4-air","request_id":"20240802094254f94f904744c549d9","usage":{"completion_tokens":7,"prompt_tokens":200,"total_tokens":207}}
+Question: 45
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562978,"id":"2024080209425818637b05f99c4555","model":"glm-4-air","request_id":"2024080209425818637b05f99c4555","usage":{"completion_tokens":7,"prompt_tokens":163,"total_tokens":170}}
+Question: 46
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562982,"id":"20240802094302e176dd7e593647f7","model":"glm-4-air","request_id":"20240802094302e176dd7e593647f7","usage":{"completion_tokens":7,"prompt_tokens":169,"total_tokens":176}}
+Question: 47
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562985,"id":"20240802094305909e632c6c99402f","model":"glm-4-air","request_id":"20240802094305909e632c6c99402f","usage":{"completion_tokens":7,"prompt_tokens":184,"total_tokens":191}}
+Question: 48
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722562990,"id":"202408020943094600ae379efa4b24","model":"glm-4-air","request_id":"202408020943094600ae379efa4b24","usage":{"completion_tokens":7,"prompt_tokens":230,"total_tokens":237}}
+Question: 49
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722562993,"id":"202408020943135c2cf9993eb647ac","model":"glm-4-air","request_id":"202408020943135c2cf9993eb647ac","usage":{"completion_tokens":7,"prompt_tokens":162,"total_tokens":169}}
+Question: 50
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722562997,"id":"20240802094316e8eb6e41aacc41a4","model":"glm-4-air","request_id":"20240802094316e8eb6e41aacc41a4","usage":{"completion_tokens":7,"prompt_tokens":194,"total_tokens":201}}
+Question: 51
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563000,"id":"20240802094319da4a3b240cd748c6","model":"glm-4-air","request_id":"20240802094319da4a3b240cd748c6","usage":{"completion_tokens":7,"prompt_tokens":225,"total_tokens":232}}
+Question: 52
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563004,"id":"202408020943232315feb9e35f4c68","model":"glm-4-air","request_id":"202408020943232315feb9e35f4c68","usage":{"completion_tokens":7,"prompt_tokens":205,"total_tokens":212}}
+Question: 53
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563007,"id":"20240802094327abdc5f6f07ea4219","model":"glm-4-air","request_id":"20240802094327abdc5f6f07ea4219","usage":{"completion_tokens":7,"prompt_tokens":195,"total_tokens":202}}
+Question: 54
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563011,"id":"20240802094330cd7c27765a1f4c3c","model":"glm-4-air","request_id":"20240802094330cd7c27765a1f4c3c","usage":{"completion_tokens":7,"prompt_tokens":247,"total_tokens":254}}
+Question: 55
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563014,"id":"20240802094333e2e1d494c02c47b4","model":"glm-4-air","request_id":"20240802094333e2e1d494c02c47b4","usage":{"completion_tokens":7,"prompt_tokens":194,"total_tokens":201}}
+Question: 56
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563017,"id":"20240802094337b3d81291a8d24916","model":"glm-4-air","request_id":"20240802094337b3d81291a8d24916","usage":{"completion_tokens":7,"prompt_tokens":96,"total_tokens":103}}
+Question: 57
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563021,"id":"2024080209434012270441c2b5403a","model":"glm-4-air","request_id":"2024080209434012270441c2b5403a","usage":{"completion_tokens":7,"prompt_tokens":87,"total_tokens":94}}
+Question: 58
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563024,"id":"202408020943430c95d8a6574d4dd7","model":"glm-4-air","request_id":"202408020943430c95d8a6574d4dd7","usage":{"completion_tokens":7,"prompt_tokens":88,"total_tokens":95}}
+Question: 59
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563027,"id":"20240802094347b2d6f504e7c24986","model":"glm-4-air","request_id":"20240802094347b2d6f504e7c24986","usage":{"completion_tokens":7,"prompt_tokens":160,"total_tokens":167}}
+Question: 60
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563031,"id":"202408020943507eabb891ad924cbb","model":"glm-4-air","request_id":"202408020943507eabb891ad924cbb","usage":{"completion_tokens":7,"prompt_tokens":100,"total_tokens":107}}
+Question: 61
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563037,"id":"2024080209435624a4175464b94b0c","model":"glm-4-air","request_id":"2024080209435624a4175464b94b0c","usage":{"completion_tokens":7,"prompt_tokens":97,"total_tokens":104}}
+Question: 62
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563040,"id":"2024080209440065b478a5811f45a4","model":"glm-4-air","request_id":"2024080209440065b478a5811f45a4","usage":{"completion_tokens":7,"prompt_tokens":146,"total_tokens":153}}
+Question: 64
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":31}","role":"assistant"}}],"created":1722563043,"id":"202408020944032f0828b903b14916","model":"glm-4-air","request_id":"202408020944032f0828b903b14916","usage":{"completion_tokens":7,"prompt_tokens":113,"total_tokens":120}}
+Question: 65
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563047,"id":"2024080209440692e90ef54b0c45d2","model":"glm-4-air","request_id":"2024080209440692e90ef54b0c45d2","usage":{"completion_tokens":7,"prompt_tokens":116,"total_tokens":123}}
+Question: 76
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563051,"id":"20240802094411d08369d679bb4ecb","model":"glm-4-air","request_id":"20240802094411d08369d679bb4ecb","usage":{"completion_tokens":7,"prompt_tokens":179,"total_tokens":186}}
+Question: 77
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563055,"id":"2024080209441406629efd549a4083","model":"glm-4-air","request_id":"2024080209441406629efd549a4083","usage":{"completion_tokens":7,"prompt_tokens":183,"total_tokens":190}}
+Question: 78
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563058,"id":"202408020944176effccebf8ac471f","model":"glm-4-air","request_id":"202408020944176effccebf8ac471f","usage":{"completion_tokens":7,"prompt_tokens":163,"total_tokens":170}}
+Question: 79
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563061,"id":"202408020944210b09bd273b7c4d30","model":"glm-4-air","request_id":"202408020944210b09bd273b7c4d30","usage":{"completion_tokens":7,"prompt_tokens":159,"total_tokens":166}}
+Question: 80
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563064,"id":"202408020944244cc4a8b965304302","model":"glm-4-air","request_id":"202408020944244cc4a8b965304302","usage":{"completion_tokens":7,"prompt_tokens":176,"total_tokens":183}}
+Question: 81
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563068,"id":"2024080209442785fc29c31c0c4d0c","model":"glm-4-air","request_id":"2024080209442785fc29c31c0c4d0c","usage":{"completion_tokens":7,"prompt_tokens":177,"total_tokens":184}}
+Question: 82
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563071,"id":"202408020944310a4dca97cdd245ba","model":"glm-4-air","request_id":"202408020944310a4dca97cdd245ba","usage":{"completion_tokens":7,"prompt_tokens":155,"total_tokens":162}}
+Question: 83
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563074,"id":"20240802094434678796e571924b1a","model":"glm-4-air","request_id":"20240802094434678796e571924b1a","usage":{"completion_tokens":7,"prompt_tokens":151,"total_tokens":158}}
+Question: 84
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563078,"id":"2024080209443770354b8a22384986","model":"glm-4-air","request_id":"2024080209443770354b8a22384986","usage":{"completion_tokens":7,"prompt_tokens":165,"total_tokens":172}}
+Question: 85
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563082,"id":"20240802094441a2db3b22a6d04297","model":"glm-4-air","request_id":"20240802094441a2db3b22a6d04297","usage":{"completion_tokens":7,"prompt_tokens":218,"total_tokens":225}}
+Question: 86
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563085,"id":"20240802094445313907908f054867","model":"glm-4-air","request_id":"20240802094445313907908f054867","usage":{"completion_tokens":7,"prompt_tokens":58,"total_tokens":65}}
+Question: 87
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563089,"id":"20240802094448523060ea72d845f1","model":"glm-4-air","request_id":"20240802094448523060ea72d845f1","usage":{"completion_tokens":7,"prompt_tokens":73,"total_tokens":80}}
+Question: 88
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563092,"id":"2024080209445107bb403457374629","model":"glm-4-air","request_id":"2024080209445107bb403457374629","usage":{"completion_tokens":7,"prompt_tokens":73,"total_tokens":80}}
+Question: 89
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563096,"id":"20240802094455591d601b31874d9b","model":"glm-4-air","request_id":"20240802094455591d601b31874d9b","usage":{"completion_tokens":7,"prompt_tokens":84,"total_tokens":91}}
+Question: 90
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563100,"id":"2024080209445980f5b687be154139","model":"glm-4-air","request_id":"2024080209445980f5b687be154139","usage":{"completion_tokens":7,"prompt_tokens":83,"total_tokens":90}}
+Question: 91
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563103,"id":"20240802094503cff553f617e34bbf","model":"glm-4-air","request_id":"20240802094503cff553f617e34bbf","usage":{"completion_tokens":7,"prompt_tokens":73,"total_tokens":80}}
+Question: 92
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563107,"id":"202408020945066158c227b1bd4614","model":"glm-4-air","request_id":"202408020945066158c227b1bd4614","usage":{"completion_tokens":7,"prompt_tokens":76,"total_tokens":83}}
+Question: 93
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563112,"id":"2024080209451024025ecf1e2745ad","model":"glm-4-air","request_id":"2024080209451024025ecf1e2745ad","usage":{"completion_tokens":7,"prompt_tokens":436,"total_tokens":443}}
+Question: 94
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563116,"id":"20240802094515f51e560b1f4b42e6","model":"glm-4-air","request_id":"20240802094515f51e560b1f4b42e6","usage":{"completion_tokens":7,"prompt_tokens":73,"total_tokens":80}}
+Question: 95
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563120,"id":"202408020945191dcb30dabd2642ea","model":"glm-4-air","request_id":"202408020945191dcb30dabd2642ea","usage":{"completion_tokens":7,"prompt_tokens":73,"total_tokens":80}}
+Question: 96
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563123,"id":"20240802094522e223d5f9b6174060","model":"glm-4-air","request_id":"20240802094522e223d5f9b6174060","usage":{"completion_tokens":7,"prompt_tokens":258,"total_tokens":265}}
+Question: 97
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"准确确定这两种物质的边界{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563127,"id":"2024080209452646f07d93ba6b428b","model":"glm-4-air","request_id":"2024080209452646f07d93ba6b428b","usage":{"completion_tokens":11,"prompt_tokens":220,"total_tokens":231}}
+Question: 98
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563131,"id":"20240802094530d8048a04117442bd","model":"glm-4-air","request_id":"20240802094530d8048a04117442bd","usage":{"completion_tokens":7,"prompt_tokens":237,"total_tokens":244}}
+Question: 99
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563135,"id":"2024080209453469f50462255547d4","model":"glm-4-air","request_id":"2024080209453469f50462255547d4","usage":{"completion_tokens":7,"prompt_tokens":131,"total_tokens":138}}
+Question: 100
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563138,"id":"202408020945388d10a1cc062e475a","model":"glm-4-air","request_id":"202408020945388d10a1cc062e475a","usage":{"completion_tokens":7,"prompt_tokens":145,"total_tokens":152}}
+Question: 101
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563141,"id":"20240802094541f3565ce560704281","model":"glm-4-air","request_id":"20240802094541f3565ce560704281","usage":{"completion_tokens":7,"prompt_tokens":169,"total_tokens":176}}
+Question: 102
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"C\"}","role":"assistant"}}],"created":1722563145,"id":"2024080209454418376733e13b49c6","model":"glm-4-air","request_id":"2024080209454418376733e13b49c6","usage":{"completion_tokens":7,"prompt_tokens":193,"total_tokens":200}}
+Question: 103
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"B\"}","role":"assistant"}}],"created":1722563148,"id":"202408020945488649d22d7af4456e","model":"glm-4-air","request_id":"202408020945488649d22d7af4456e","usage":{"completion_tokens":7,"prompt_tokens":194,"total_tokens":201}}
+Question: 104
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"D\"}","role":"assistant"}}],"created":1722563153,"id":"20240802094552c2bbf1c0e6954536","model":"glm-4-air","request_id":"20240802094552c2bbf1c0e6954536","usage":{"completion_tokens":7,"prompt_tokens":162,"total_tokens":169}}
+Question: 105
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"{\"answer\":\"A\"}","role":"assistant"}}],"created":1722563156,"id":"20240802094556b6ef6161eb8c42b2","model":"glm-4-air","request_id":"20240802094556b6ef6161eb8c42b2","usage":{"completion_tokens":7,"prompt_tokens":161,"total_tokens":168}}

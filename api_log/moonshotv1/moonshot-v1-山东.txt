@@ -1,0 +1,192 @@
+Model: moonshot-v1-8k
+Question: 1
+{"id":"chatcmpl-da89870ed7c544cc82542b45de9c0ebc","object":"chat.completion","created":1722583852,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":176,"completion_tokens":8,"total_tokens":184}}
+Question: 2
+{"id":"chatcmpl-8a4db71214c94d57a46609cf36e3601f","object":"chat.completion","created":1722583859,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":139,"completion_tokens":8,"total_tokens":147}}
+Question: 3
+{"id":"chatcmpl-003e927de6864804bdeeb05c0d83260f","object":"chat.completion","created":1722583863,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":190,"completion_tokens":8,"total_tokens":198}}
+Question: 4
+{"id":"chatcmpl-fb14f306c6ab4731b8c2d1f0858fce7a","object":"chat.completion","created":1722583866,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":196,"completion_tokens":8,"total_tokens":204}}
+Question: 5
+{"id":"chatcmpl-a2ff10ea51e84a4980aec8b7fb130dac","object":"chat.completion","created":1722583870,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":163,"completion_tokens":8,"total_tokens":171}}
+Question: 7
+{"id":"chatcmpl-1bdbe8925bf4465b90eda5b5cadc9519","object":"chat.completion","created":1722583874,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":198,"completion_tokens":8,"total_tokens":206}}
+Question: 8
+{"id":"chatcmpl-b07380da062d4187bdb6745c4de4186e","object":"chat.completion","created":1722583879,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":216,"completion_tokens":8,"total_tokens":224}}
+Question: 9
+{"id":"chatcmpl-1d2f045fe7124b3dbdd706755b3a4e5c","object":"chat.completion","created":1722583882,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":133,"completion_tokens":8,"total_tokens":141}}
+Question: 10
+{"id":"chatcmpl-8a4b13bcf70c45409796979d1b848d15","object":"chat.completion","created":1722583887,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":137,"completion_tokens":8,"total_tokens":145}}
+Question: 11
+{"id":"chatcmpl-99931257d568428c93c67ac3384e2e35","object":"chat.completion","created":1722583891,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":138,"completion_tokens":8,"total_tokens":146}}
+Question: 12
+{"id":"chatcmpl-852e82d07cd4438abb2828a0b24788eb","object":"chat.completion","created":1722583895,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":144,"completion_tokens":8,"total_tokens":152}}
+Question: 13
+{"id":"chatcmpl-87352667f3fb40fbb6bb9f04f23732d6","object":"chat.completion","created":1722583899,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":8,"total_tokens":143}}
+Question: 14
+{"id":"chatcmpl-7a01f1f4273f4d9982794c38d2f8f571","object":"chat.completion","created":1722583902,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":122,"completion_tokens":8,"total_tokens":130}}
+Question: 15
+{"id":"chatcmpl-275b9c308cf44cedb6f9e6c214931e41","object":"chat.completion","created":1722583906,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":8,"total_tokens":143}}
+Question: 16
+{"id":"chatcmpl-5f0e3b7aae8741a497b49b925442e281","object":"chat.completion","created":1722583910,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":117,"completion_tokens":8,"total_tokens":125}}
+Question: 17
+{"id":"chatcmpl-0205ac5603ac40c2947bd3068ef7b5c1","object":"chat.completion","created":1722583913,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":112,"completion_tokens":8,"total_tokens":120}}
+Question: 18
+{"id":"chatcmpl-e06cce47ba794edba0f5a7669060ed4e","object":"chat.completion","created":1722583917,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":117,"completion_tokens":8,"total_tokens":125}}
+Question: 19
+{"id":"chatcmpl-5b9648ae39054fb381f83db9e94dca92","object":"chat.completion","created":1722583921,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":174,"completion_tokens":8,"total_tokens":182}}
+Question: 20
+{"id":"chatcmpl-25bcaa2dbf784a18aa63922d380af156","object":"chat.completion","created":1722583924,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":128,"completion_tokens":8,"total_tokens":136}}
+Question: 21
+{"id":"chatcmpl-376cdd561f724da8b05345f518855812","object":"chat.completion","created":1722583928,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":111,"completion_tokens":8,"total_tokens":119}}
+Question: 22
+{"id":"chatcmpl-2cc55b2a17e54920b9d3e04a510408b7","object":"chat.completion","created":1722583933,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":164,"completion_tokens":8,"total_tokens":172}}
+Question: 23
+{"id":"chatcmpl-87cee87c807540f2ad7048cd0e592d3e","object":"chat.completion","created":1722583940,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":153,"completion_tokens":8,"total_tokens":161}}
+Question: 24
+{"id":"chatcmpl-9ecf185b05a447d0b148763af2880611","object":"chat.completion","created":1722583945,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":233,"completion_tokens":8,"total_tokens":241}}
+Question: 25
+{"id":"chatcmpl-a4542ee3f8b64cc6bab50ccced409041","object":"chat.completion","created":1722583955,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":152,"completion_tokens":8,"total_tokens":160}}
+Question: 26
+{"id":"chatcmpl-5c901d1eb1644488a2533acc5e02c79e","object":"chat.completion","created":1722583961,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":134,"completion_tokens":8,"total_tokens":142}}
+Question: 27
+{"id":"chatcmpl-e1d95d9955c74ad8bbaf8155eed12828","object":"chat.completion","created":1722583964,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":185,"completion_tokens":8,"total_tokens":193}}
+Question: 28
+{"id":"chatcmpl-105e12154ed24be991093673ecf74d91","object":"chat.completion","created":1722583967,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":159,"completion_tokens":8,"total_tokens":167}}
+Question: 29
+{"id":"chatcmpl-e63fb70a84204237b8dc98b9bffb0163","object":"chat.completion","created":1722583975,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":210,"completion_tokens":8,"total_tokens":218}}
+Question: 30
+{"id":"chatcmpl-768b22627df04886979f3b473191c844","object":"chat.completion","created":1722583979,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":239,"completion_tokens":8,"total_tokens":247}}
+Question: 31
+{"id":"chatcmpl-df6c9abf070f4250ac7dc865ddec8e28","object":"chat.completion","created":1722583985,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":243,"completion_tokens":8,"total_tokens":251}}
+Question: 32
+{"id":"chatcmpl-c212ed1ee66d483c8532f647ac05d2ab","object":"chat.completion","created":1722583992,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":194,"completion_tokens":8,"total_tokens":202}}
+Question: 33
+{"id":"chatcmpl-49c2c1e125d04a8c963d27b12b7911ef","object":"chat.completion","created":1722583996,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":231,"completion_tokens":8,"total_tokens":239}}
+Question: 34
+{"id":"chatcmpl-085d3562fee941cbb0854059f200b73d","object":"chat.completion","created":1722584004,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":257,"completion_tokens":8,"total_tokens":265}}
+Question: 35
+{"id":"chatcmpl-7f8de68d38574e949ab731c11c798027","object":"chat.completion","created":1722584007,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":202,"completion_tokens":8,"total_tokens":210}}
+Question: 36
+{"id":"chatcmpl-cdbcb293846e4451bc615d2a77d6458b","object":"chat.completion","created":1722584013,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":183,"completion_tokens":8,"total_tokens":191}}
+Question: 37
+{"id":"chatcmpl-e1265c399a8640dbb21d5aca08b06082","object":"chat.completion","created":1722584017,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":325,"completion_tokens":8,"total_tokens":333}}
+Question: 38
+{"id":"chatcmpl-d84fa3f818484c7fb637705a538ef98e","object":"chat.completion","created":1722584021,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":238,"completion_tokens":8,"total_tokens":246}}
+Question: 39
+{"id":"chatcmpl-79ade6826eb04d9f98284699fcdf9062","object":"chat.completion","created":1722584026,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":196,"completion_tokens":8,"total_tokens":204}}
+Question: 40
+{"id":"chatcmpl-49950f2d7c914608bb060233747104c8","object":"chat.completion","created":1722584030,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":162,"completion_tokens":8,"total_tokens":170}}
+Question: 41
+{"id":"chatcmpl-dbbddaa0bed249b7a91a3e34302deb13","object":"chat.completion","created":1722584036,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":202,"completion_tokens":8,"total_tokens":210}}
+Question: 42
+{"id":"chatcmpl-8e737949b4d64ad1a18643cbec852545","object":"chat.completion","created":1722584040,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":261,"completion_tokens":8,"total_tokens":269}}
+Question: 43
+{"id":"chatcmpl-cf1284d5ed0f4c7d886298b534ba4d00","object":"chat.completion","created":1722584044,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":190,"completion_tokens":8,"total_tokens":198}}
+Question: 44
+{"id":"chatcmpl-6b8c628a2e084bb1ab14b343dac305a1","object":"chat.completion","created":1722584051,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":184,"completion_tokens":8,"total_tokens":192}}
+Question: 45
+{"id":"chatcmpl-f3359f72a91a4879841965a64b845a24","object":"chat.completion","created":1722584057,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":202,"completion_tokens":8,"total_tokens":210}}
+Question: 46
+{"id":"chatcmpl-a38c212d79cb447ca425545307c867bf","object":"chat.completion","created":1722584061,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":189,"completion_tokens":8,"total_tokens":197}}
+Question: 47
+{"id":"chatcmpl-2e2b44b7572f4e91a5005e21708a0058","object":"chat.completion","created":1722584064,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":264,"completion_tokens":8,"total_tokens":272}}
+Question: 48
+{"id":"chatcmpl-b6584aa982944b729692b39caba64269","object":"chat.completion","created":1722584069,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":305,"completion_tokens":8,"total_tokens":313}}
+Question: 49
+{"id":"chatcmpl-18c58310fd3f4e0db086b3f0fa3ed409","object":"chat.completion","created":1722584072,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":293,"completion_tokens":8,"total_tokens":301}}
+Question: 50
+{"id":"chatcmpl-60704324f4634943bc42112c18887e03","object":"chat.completion","created":1722584078,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":183,"completion_tokens":8,"total_tokens":191}}
+Question: 51
+{"id":"chatcmpl-a58c149b94fa48089becbebce6bd19ca","object":"chat.completion","created":1722584082,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"首先，我们需要计算从8个展厅中随机选取3个展厅的总方法数。这可以通过组合公式C(n, k) = n! / (k! * (n-k)!)来计算，其中n是总数量，k是选取的数量。在这个问题中，n=8，k=3。\n\nC(8, 3) = 8! / (3! * (8-3)!) = 8! / (3! * 5!) = (8 * 7 * 6) / (3 * 2 * 1) = 56\n\n接下来，我们需要计算叶雕和皮影展厅至少一个被选中的情况数。这可以通过以下步骤计算：\n\n1. 计算叶雕和皮影都被选中的情况数：C(2, 2) = 1\n2. 计算叶雕被选中，皮影未被选中的情况数：C(2, 1) * C(6, 2) = 2 * 15 = 30\n3. 计算皮影被选中，叶雕未被选中的情况数：C(2, 1) * C(6, 2) = 2 * 15 = 30\n\n将这三个情况数相加，我们得到叶雕和皮影至少一个被选中的情况数为1 + 30 + 30 = 61。\n\n最后，我们计算概率。概率等于叶雕和皮影至少一个被选中的情况数除以总方法数：\n\nP = 61 / 56 ≈ 1.0893\n\n然而，这个结果与给定的选项不匹配。我们需要重新检查计算过程。在这个问题中，我们可以使用对立事件的概率来简化计算。对立事件是叶雕和皮影都没有被选中的情况。我们先计算这个对立事件的概率，然后用1减去这个概率得到至少一个被选中的概率。\n\n1. 计算叶雕和皮影都没有被选中的情况数：C(6, 3) = 20\n2. 计算对立事件的概率：P(对立) = 20 / 56 ≈ 0.3571\n3. 计算至少一个被选中的概率：P(至少一个) = 1 - P(对立) = 1 - 0.3571 ≈ 0.6429\n\n这个结果与给定的选项仍然不匹配。我们需要重新审视问题和计算过程。在这个问题中，我们可以使用另一种方法来计算至少一个被选中的概率，即直接计算叶雕和皮影至少一个被选中的情况数，然后除以总方法数。\n\n1. 计算叶雕和皮影至少一个被选中的情况数：C(8, 3) - C(6, 3) = 56 - 20 = 36\n2. 计算至少一个被选中的概率：P(至少一个) = 36 / 56 = 9 / 14\n\n所以，叶雕和皮影展厅至少一个被选中的概率是9/14。答案是C。{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":127,"completion_tokens":666,"total_tokens":793}}
+Question: 52
+{"id":"chatcmpl-e98f33e302dd47938d7150665cd3f021","object":"chat.completion","created":1722584117,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"首先，我们需要考虑所有可能的3人小分队组合。这可以通过组合数学中的组合公式来计算。组合公式为 C(n, k) = n! / [k! * (n-k)!]，其中 n 是总数，k 是选择的数量，\"!\" 表示阶乘。\n\n在这个问题中，我们有9名医生（6名男医生和3名女医生），需要选择3人。我们可以先计算所有可能的3人组合，然后减去只有男性或只有女性的组合。\n\n1. 所有可能的3人组合：\nC(9, 3) = 9! / [3! * (9-3)!] = 84\n\n2. 只有男性的组合：\nC(6, 3) = 6! / [3! * (6-3)!] = 20\n\n3. 只有女性的组合：\nC(3, 3) = 3! / [3! * (3-3)!] = 1\n\n4. 男女混合的组合：\n总组合 - 只有男性的组合 - 只有女性的组合 = 84 - 20 - 1 = 63\n\n所以，男女医生都有的3人小分队的不同组队方式有63种。\n\n{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":107,"completion_tokens":281,"total_tokens":388}}
+Question: 53
+{"id":"chatcmpl-67fc0d251c844ce1b24cfa76634806c6","object":"chat.completion","created":1722584132,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"设投资10万元的有x人，投资20万元的有y人，投资30万元的有z人。根据题意，我们有以下方程组：\n\n1. x + y + z = 6 （总人数）\n2. 10x + 20y + 30z = 110 （总投资额）\n3. x = y + 2 （投资10万元的比投资20万元的多2人）\n\n将第三个方程代入第一个方程，得到：\ny + 2 + y + z = 6\n2y + z = 4\n\n将第三个方程代入第二个方程，得到：\n10(y + 2) + 20y + 30z = 110\n10y + 20 + 20y + 30z = 110\n30y + 30z = 90\n\n将2y + z = 4 乘以15得到：\n30y + 15z = 60\n\n将30y + 30z = 90 减去 30y + 15z = 60，得到：\n15z = 30\nz = 2\n\n所以，投资30万元的有2人。\n\n{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":95,"completion_tokens":258,"total_tokens":353}}
+Question: 54
+{"id":"chatcmpl-b1b88fd8f79e41b2a74fd6fc6e4c70be","object":"chat.completion","created":1722584144,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"首先，我们需要计算每个队伍的工作效率。\n\n甲队的工作效率为1/30（每天完成工程的1/30）。\n\n乙队的效率比甲队高20%，所以乙队的工作效率为1/30 * (1 + 20%) = 1/30 * 1.2 = 2/75。\n\n丙队与甲队或乙队合作时效率可提高120%，所以与甲队合作时的效率为1/30 * (1 + 120%) = 1/30 * 2.2 = 11/150，与乙队合作时的效率为2/75 * (1 + 120%) = 2/75 * 2.2 = 44/1125。\n\n三个队伍合作时效率可提高200%，所以三个队伍合作时的效率为1/30 * (1 + 200%) = 1/30 * 3 = 1/10。\n\n接下来，我们计算工程的完成情况。\n\n甲乙两队合作3天，完成的工作量为3 * (1/30 + 2/75) = 3 * (5/150 + 4/150) = 3 * 9/150 = 27/150。\n\n丙队加入后，三个队伍合作了2天，完成的工作量为2 * 1/10 = 1/5。\n\n最后两天，只有甲队和丙队合作，完成的工作量为2 * (1/30 + 11/150) = 2 * (5/150 + 11/150) = 2 * 16/150 = 32/150。\n\n将所有完成的工作量加起来，得到总完成的工作量：\n27/150 + 1/5 + 32/150 = 27/150 + 30/150 + 32/150 = 89/150。\n\n剩余的工作量为1 - 89/150 = 61/150。\n\n剩余的工作量由甲队和丙队完成，需要的时间为(61/150) / (1/30 + 11/150) = (61/150) / (5/150 + 11/150) = (61/150) / (16/150) = 61/16。\n\n将61/16转换为天数，得到3.8125天。\n\n所以，整个工程耗时为3（甲乙合作）+ 2（丙队加入）+ 2（最后两天）+ 3.8125（剩余工作量）= 10.8125天。\n\n由于题目要求的是约多少天，我们可以将答案四舍五入到最接近的整数，即11天。\n\n{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":145,"completion_tokens":575,"total_tokens":720}}
+Question: 55
+{"id":"chatcmpl-daf11305d66f49d8a755e2c81cd7ccce","object":"chat.completion","created":1722584168,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"设所有职员的人数为n，其中低于70分的有3人，记为a1, a2, a3，且a1 \u003c a2 \u003c a3 \u003c 70。根据题意，a2 - a1 = 5，a3 - a2 = 5，所以a3 - a1 = 10。由于a3 \u003c 70，所以a1 \u003c 60。\n\n超过70分的职员人数为n - 3，他们的平均分为82分，所以总分为82 * (n - 3)。\n\n所有职员的总分可以表示为：a1 + a2 + a3 + 82 * (n - 3)。\n\n由于分数排名相邻的2人分差均为5分，所以a1, a2, a3, ..., an形成一个等差数列，公差为5。根据等差数列求和公式，所有职员的总分也可以表示为：n * (2a1 + (n - 1) * 5) / 2。\n\n将两个总分表达式相等，得到：\nn * (2a1 + (n - 1) * 5) / 2 = a1 + a2 + a3 + 82 * (n - 3)\n\n化简得：\nn * (2a1 + 5n - 5) = 2a1 + 10 + 82n - 246\n\n进一步化简得：\nn * (2a1 + 5n - 5) - 82n + 236 = 2a1\n\n由于a1 \u003c 60，所以2a1 \u003c 120。将2a1移到等式左边，得到：\nn * (5n - 5 - 60) = 82n - 236\n\n化简得：\n5n^2 - 65n + 236 = 0\n\n解这个二次方程，得到n = 4 或 n = 58/5。由于n是整数，所以n = 4。\n\n所以，所有职员中竞赛成绩超过70分的人数占比为 (n - 3) / n = 1 / 4 = 25%，低于50%。\n\n{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":133,"completion_tokens":487,"total_tokens":620}}
+Question: 56
+{"id":"chatcmpl-0d87579534134c5babd6f3e7a5c0070a","object":"chat.completion","created":1722584193,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"设小王上山速度为v1，下山速度为1.5v1；小李上山速度为v2，下山速度为1.5v2。设山脚到山顶的距离为d。\n\n根据题意，当小王距山顶还有1/2d时，小李刚走完上山路程的3/8d，即小李已经走了3/8d，还剩5/8d。此时，小王已经走了1/2d。\n\n设小王从山脚到山顶用时为t1，小李从山脚到山顶用时为t2。则有：\nv1 * t1 = d\nv2 * t2 = 3/8d\n\n小王到达山顶后立即原路返回，10分钟后遇到上山途中的小李。此时，小王已经下山10分钟，即走了1.5v1 * 10 = 15v1的距离。小李此时已经上山10分钟，即走了v2 * 10 = 10v2的距离。\n\n由于小王和小李相遇时，小王已经走了1/2d + 15v1的距离，小李已经走了3/8d + 10v2的距离。根据题意，此时小王和小李的距离差为1/2d - 5/8d = 1/8d。所以有：\n1/2d + 15v1 - (3/8d + 10v2) = 1/8d\n\n化简得：\n15v1 - 10v2 = 1/8d\n\n又因为小王和小李相遇时，小王已经下山10分钟，小李已经上山10分钟，所以有：\nt1 - 10 = t2 + 10\n\n将v1 * t1 = d和v2 * t2 = 3/8d代入上式，得：\nd/v1 - 10 = 3/8d/v2 + 10\n\n将15v1 - 10v2 = 1/8d代入上式，得：\nd/(15v1 - 10v2) - 10 = 3/8d/(15v1 - 10v2) + 10\n\n解得：\nv1/v2 = 1/2\n\n将v1/v2 = 1/2代入15v1 - 10v2 = 1/8d，得：\n15/2v2 - 10v2 = 1/8d\n5/2v2 = 1/8d\nv2 = 1/20d\n\n将v2 = 1/20d代入v1 * t1 = d，得：\nv1 * t1 = 20d\nt1 = 20\n\n将v2 = 1/20d代入v2 * t2 = 3/8d，得：\nt2 = 60\n\n所以，小李比小王晚到达山脚A点的时间为60 - 20 = 40分钟。\n\n{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":664,"total_tokens":799}}
+Question: 57
+{"id":"chatcmpl-8e27bd76bc204a8a86b4bb8b722c0046","object":"chat.completion","created":1722584234,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"设参加比赛的高校数为n，根据题意，每所高校都要与其余所有参赛高校各进行一场比赛，所以每所高校要进行n-1场比赛。\n\n设胜场数为x，平局数为y，负场数为z。根据题意，我们有以下关系：\n1. x + y + z = n - 1 （每所高校要进行n-1场比赛）\n2. x = y + 2 （取胜场次比平局场次多2场）\n3. y = 2z （平局场次是告负场次的2倍）\n\n冠军积分为14分，根据积分规则，我们有：\n3x + y = 14\n\n将2和3代入1中，得到：\nx + (x - 2) + (x/2) = n - 1\n2.5x - 2 = n - 1\n\n将2代入3中，得到：\ny = 2 * (x - 2)\n\n将y代入积分公式中，得到：\n3x + 2 * (x - 2) = 14\n3x + 2x - 4 = 14\n5x = 18\nx = 3.6\n\n由于x必须是整数，所以这里出现了矛盾。我们需要重新检查我们的计算。\n\n我们再次检查积分公式：\n3x + y = 14\n\n将2和3代入积分公式中，得到：\n3x + 2z + 4 = 14\n3x + 2z = 10\n\n将2.5x - 2 = n - 1中的x用3代入，得到：\n2.5 * 3 - 2 = n - 1\n7.5 - 2 = n - 1\n5.5 = n - 1\nn = 6.5\n\n这里n也出现了非整数，说明我们的计算有误。我们需要重新审视问题。\n\n我们再次检查积分公式和条件：\n3x + y = 14\nx = y + 2\ny = 2z\n\n将x = y + 2代入3x + y = 14，得到：\n3(y + 2) + y = 14\n4y + 6 = 14\n4y = 8\ny = 2\n\n将y = 2代入x = y + 2，得到：\nx = 4\n\n将y = 2代入y = 2z，得到：\nz = 1\n\n现在我们有x = 4，y = 2，z = 1。将这些值代入x + y + z = n - 1，得到：\n4 + 2 + 1 = n - 1\n7 = n - 1\nn = 8\n\n所以参加这次足球比赛的高校有8所。答案是B。"},"finish_reason":"stop"}],"usage":{"prompt_tokens":135,"completion_tokens":613,"total_tokens":748}}
+Question: 58
+{"id":"chatcmpl-782be13631134b138316f227b905d4ff","object":"chat.completion","created":1722584264,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"设商品售价为x元，根据题意，每件商品的利润为x-8元，每天销售量为100-10(x-10)件。每天的总利润为：\n\n\\[ \\text{总利润} = (x-8) \\times [100-10(x-10)] \\]\n\n要保证每天至少获利350元，即：\n\n\\[ (x-8) \\times [100-10(x-10)] \\geq 350 \\]\n\n化简得：\n\n\\[ x^2 - 28x + 200 \\leq 0 \\]\n\n解这个不等式，我们可以得到x的取值范围。首先，我们可以找到这个二次方程的根，即：\n\n\\[ x = \\frac{28 \\pm \\sqrt{784 - 800}}{2} = 14 \\pm \\sqrt{4} \\]\n\n这里我们得到两个根：x1 = 13和x2 = 15。由于二次方程的系数a = 1 \u003e 0，所以这个二次方程的图像是一个开口向上的抛物线。不等式x^2 - 28x + 200 ≤ 0的解集是x1和x2之间的区间，即13 ≤ x ≤ 15。\n\n因此，商品的售价应在13元到15元之间，答案是：\n\n{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":124,"completion_tokens":286,"total_tokens":410}}
+Question: 59
+{"id":"chatcmpl-5b695236238344e38f31e2b7f4a46f16","object":"chat.completion","created":1722584279,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":127,"completion_tokens":8,"total_tokens":135}}
+Question: 60
+{"id":"chatcmpl-784a1628d0fc48cf95e5cde8e82b6e4f","object":"chat.completion","created":1722584283,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":116,"completion_tokens":8,"total_tokens":124}}
+Question: 62
+{"id":"chatcmpl-315ef730724a4604b67c84e41b69fca1","object":"chat.completion","created":1722584286,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":70,"completion_tokens":8,"total_tokens":78}}
+Question: 71
+{"id":"chatcmpl-a829cdd394114775ae1914e80eade3db","object":"chat.completion","created":1722584290,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":109,"completion_tokens":8,"total_tokens":117}}
+Question: 72
+{"id":"chatcmpl-4219efdca4914f92b46b1995cc1f0475","object":"chat.completion","created":1722584294,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":197,"completion_tokens":8,"total_tokens":205}}
+Question: 73
+{"id":"chatcmpl-c7e181cf428f42c0816fcb33472c54d3","object":"chat.completion","created":1722584297,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":161,"completion_tokens":8,"total_tokens":169}}
+Question: 74
+{"id":"chatcmpl-4de3f81500e3455394977e7056a96578","object":"chat.completion","created":1722584301,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":233,"completion_tokens":8,"total_tokens":241}}
+Question: 75
+{"id":"chatcmpl-5a54609d7400499d85a100503b278e52","object":"chat.completion","created":1722584305,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":206,"completion_tokens":8,"total_tokens":214}}
+Question: 76
+{"id":"chatcmpl-bdcddb4f7e494c4fa73585aa834b2d2f","object":"chat.completion","created":1722584309,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":220,"completion_tokens":8,"total_tokens":228}}
+Question: 77
+{"id":"chatcmpl-dff736013ff44cd3ba095d48b83e03b6","object":"chat.completion","created":1722584313,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":152,"completion_tokens":8,"total_tokens":160}}
+Question: 78
+{"id":"chatcmpl-d2ef314c55b64bf5b687825fab0b8fe0","object":"chat.completion","created":1722584317,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":192,"completion_tokens":8,"total_tokens":200}}
+Question: 79
+{"id":"chatcmpl-6df369b056ba44d183e45de466f431cf","object":"chat.completion","created":1722584321,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":190,"completion_tokens":8,"total_tokens":198}}
+Question: 80
+{"id":"chatcmpl-b840e82ca76948609339a40cac035af9","object":"chat.completion","created":1722584325,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":93,"completion_tokens":8,"total_tokens":101}}
+Question: 81
+{"id":"chatcmpl-7488cfb7e06c4094ad8488adb077ffe8","object":"chat.completion","created":1722584329,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":73,"completion_tokens":8,"total_tokens":81}}
+Question: 82
+{"id":"chatcmpl-a93d0cedb5dc45ecbf9ff535291e1dbb","object":"chat.completion","created":1722584333,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":73,"completion_tokens":8,"total_tokens":81}}
+Question: 83
+{"id":"chatcmpl-17d7aeb6bb1c448cb51cd87d75069cc4","object":"chat.completion","created":1722584337,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":64,"completion_tokens":8,"total_tokens":72}}
+Question: 84
+{"id":"chatcmpl-1be80b3aaf3f428c868838e3756d41a2","object":"chat.completion","created":1722584340,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":66,"completion_tokens":8,"total_tokens":74}}
+Question: 85
+{"id":"chatcmpl-81090f6683f84663a62a7fd846bd196b","object":"chat.completion","created":1722584344,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":71,"completion_tokens":8,"total_tokens":79}}
+Question: 86
+{"id":"chatcmpl-3db9e1ece7bb41e6a04717c97f5d8bce","object":"chat.completion","created":1722584348,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":75,"completion_tokens":8,"total_tokens":83}}
+Question: 87
+{"id":"chatcmpl-8a9c95046f4a408a8b8b583654645631","object":"chat.completion","created":1722584351,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":73,"completion_tokens":8,"total_tokens":81}}
+Question: 88
+{"id":"chatcmpl-edcc14214b9b4a23a9379adeb2f35b21","object":"chat.completion","created":1722584355,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":83,"completion_tokens":8,"total_tokens":91}}
+Question: 89
+{"id":"chatcmpl-63bbc1b8d2fb4e57b8aaf91ec4d23e03","object":"chat.completion","created":1722584359,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}\n\n这道题目是一个类比题，需要找到两个词之间的相似关系。裁缝和司机都是职业，而方格尺和网约车都是与这两个职业相关的物品或服务。方格尺是裁缝用来测量和裁剪布料的工具，而网约车是司机提供出行服务的一种方式。因此，选项A是正确的。其他选项B、C和D都不符合这种类比关系。"},"finish_reason":"stop"}],"usage":{"prompt_tokens":84,"completion_tokens":89,"total_tokens":173}}
+Question: 90
+{"id":"chatcmpl-d8b83b35fd104c878b8b45a74d7d421f","object":"chat.completion","created":1722584365,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":124,"completion_tokens":8,"total_tokens":132}}
+Question: 91
+{"id":"chatcmpl-9c5d332c9d034a1c96fa455779e41301","object":"chat.completion","created":1722584369,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"A\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":208,"completion_tokens":8,"total_tokens":216}}
+Question: 92
+{"id":"chatcmpl-23445095622945cb8aa3e58476e757a9","object":"chat.completion","created":1722584372,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":226,"completion_tokens":8,"total_tokens":234}}
+Question: 93
+{"id":"chatcmpl-c496b64a3e5c45f7a33866bdc2d0141c","object":"chat.completion","created":1722584377,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":205,"completion_tokens":8,"total_tokens":213}}
+Question: 94
+{"id":"chatcmpl-b6056caf52bc42f1a2a5fc5fe2d15bdf","object":"chat.completion","created":1722584383,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":200,"completion_tokens":8,"total_tokens":208}}
+Question: 95
+{"id":"chatcmpl-3c8f6054959e49d0962dc53b4bee2b63","object":"chat.completion","created":1722584386,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":176,"completion_tokens":8,"total_tokens":184}}
+Question: 96
+{"id":"chatcmpl-26797a6d882c4ec698e7323e2654c201","object":"chat.completion","created":1722584393,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":243,"completion_tokens":8,"total_tokens":251}}
+Question: 97
+{"id":"chatcmpl-2873c2f6a1464eb89b9d6858aa5522d8","object":"chat.completion","created":1722584400,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":240,"completion_tokens":8,"total_tokens":248}}
+Question: 98
+{"id":"chatcmpl-9771012d7f654704b65aebfa2463049d","object":"chat.completion","created":1722584406,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":170,"completion_tokens":8,"total_tokens":178}}
+Question: 99
+{"id":"chatcmpl-e5da8343b38a418981cd9b4608ca6109","object":"chat.completion","created":1722584411,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":169,"completion_tokens":8,"total_tokens":177}}
+Question: 100
+{"id":"chatcmpl-9ba18faf53ad4c178251f929952ed880","object":"chat.completion","created":1722584419,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"根据题目信息，我们可以逐步分析：\n\n1. 有3名学生属于20岁以下年龄段，2名属于20岁及以上年龄段。\n2. 有2名学生的专业是哲学，其他3名学生的专业是文学。\n3. 小赵和小孙的年龄段相同，小李和小周的年龄段不同。\n4. 小钱和小周的专业相同，小孙和小李的专业不同。\n5. 最终结果为，该老师选择了一名年龄大于20岁的哲学专业学生。\n\n首先，根据第3条，小赵和小孙的年龄段相同，小李和小周的年龄段不同。由于有3名学生属于20岁以下，2名属于20岁及以上，所以小赵和小孙不可能都是20岁及以上，否则小李和小周都是20岁以下，这与第1条矛盾。因此，小赵和小孙都是20岁以下，小李和小周中有一个是20岁及以上。\n\n接下来，根据第4条，小钱和小周的专业相同。由于有2名学生的专业是哲学，其他3名学生的专业是文学，所以小钱和小周不可能都是哲学专业，否则小赵、小孙、小李中有两个是文学专业，这与第2条矛盾。因此，小钱和小周都是文学专业。\n\n再根据第5条，该老师选择了一名年龄大于20岁的哲学专业学生。由于小钱和小周都是文学专业，所以这名被选中的学生只能是小赵、小孙、小李中的一个。由于小赵和小孙都是20岁以下，所以这名被选中的学生只能是小李。\n\n综上所述，这名学生是小李。所以答案是：{\"answer\":\"D\"}。"},"finish_reason":"stop"}],"usage":{"prompt_tokens":180,"completion_tokens":336,"total_tokens":516}}
+Question: 116
+{"id":"chatcmpl-10edabaf4e8640bcbe00ee00cd8b0629","object":"chat.completion","created":1722584433,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"C\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":375,"completion_tokens":8,"total_tokens":383}}
+Question: 117
+{"id":"chatcmpl-0a2b8535f58847c780a8d263d0c01fe7","object":"chat.completion","created":1722584437,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":398,"completion_tokens":8,"total_tokens":406}}
+Question: 118
+{"id":"chatcmpl-a2a13deef9dc4968b0ad2fcca6020e55","object":"chat.completion","created":1722584444,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":373,"completion_tokens":8,"total_tokens":381}}
+Question: 119
+{"id":"chatcmpl-620c4c1dfd7e420b90d8082000d974a9","object":"chat.completion","created":1722584448,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"B\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":414,"completion_tokens":8,"total_tokens":422}}
+Question: 120
+{"id":"chatcmpl-806b5d1414ac4005a70e3944ed804242","object":"chat.completion","created":1722585680,"model":"moonshot-v1-8k","choices":[{"index":0,"message":{"role":"assistant","content":"{\"answer\":\"D\"}"},"finish_reason":"stop"}],"usage":{"prompt_tokens":421,"completion_tokens":8,"total_tokens":429}}
+
